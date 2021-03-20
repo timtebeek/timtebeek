@@ -1,4 +1,5 @@
-### Hi there 👋
+- [My JDriven Blog Posts](https://blog.jdriven.com/author/tim-te-beek/)
+- [My StackOverflow](https://stackoverflow.com/users/53444/tim) / [Story](https://stackoverflow.com/story/timtebeek) / [CV](https://stackoverflow.com/cv/timtebeek)
 
 <!--
 **timtebeek/timtebeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

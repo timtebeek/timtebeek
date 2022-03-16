@@ -1,5 +1,8 @@
+Senior software engineer who enjoys working with and contributing to Open Source such as Spring Boot, Kafka, WireMock, OpenRewrite and ArchUnit.
+When not at work you'll find me travelling, bouldering, snowboarding, surfing or at one of many cultural events around my home town or abroad.
+
 - [My JDriven Blog Posts](https://blog.jdriven.com/author/tim-te-beek/)
-- [My StackOverflow](https://stackoverflow.com/users/53444/tim) / [Story](https://stackoverflow.com/story/timtebeek) / [CV](https://stackoverflow.com/cv/timtebeek)
+- [My StackOverflow](https://stackoverflow.com/users/53444/tim)
 
 <!--
 **timtebeek/timtebeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

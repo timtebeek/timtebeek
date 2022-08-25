@@ -31,6 +31,10 @@ Here's an overview of recent talks and workshops.
 🇵🇱 Krakow,
 [📽️](https://www.youtube.com/watch?v=rg1TcaHv-24) 15 minutes
 
+[Devoxx Morocco 2022](https://devoxx.ma/)
+🇲🇦 Agadir,
+25 minutes
+
 [Devoxx Belgium 2022](https://devoxx.be/)
 🇧🇪 Antwerp,
 30 minutes

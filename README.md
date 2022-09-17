@@ -31,11 +31,11 @@ Here's an overview of recent talks and workshops.
 🇵🇱 Krakow,
 [📽️](https://www.youtube.com/watch?v=rg1TcaHv-24) 15 minutes
 
-[Devoxx Morocco 2022](https://devoxx.ma/)
+[Devoxx Morocco 2022](https://devoxx.ma/talk/?id=8815)
 🇲🇦 Agadir,
 25 minutes
 
-[Devoxx Belgium 2022](https://devoxx.be/)
+[Devoxx Belgium 2022](https://devoxx.be/talk/?id=16776)
 🇧🇪 Antwerp,
 30 minutes
 
@@ -70,7 +70,7 @@ Here's an overview of recent talks and workshops.
 [🧑‍💻](https://github.com/timtebeek/spring-security-workshop)
 120 minutes
 
-[Devoxx Morocco 2022](https://devoxx.ma/)
+[Devoxx Morocco 2022](https://devoxx.ma/talk/?id=7362)
 🇲🇦 Agadir,
 [🧑‍💻](https://github.com/timtebeek/spring-security-workshop)
 120 minutes

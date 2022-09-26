@@ -75,6 +75,11 @@ Here's an overview of recent talks and workshops.
 [🧑‍💻](https://github.com/timtebeek/spring-security-workshop)
 120 minutes
 
+[JFall 2022](https://jfall.nl)
+🇳🇱 Ede,
+[🧑‍💻](https://github.com/timtebeek/spring-security-workshop)
+120 minutes
+
 ### Document your lousily coupled micro service architecture
 
 [JFall 2021](https://2021.jfall.nl/speakers-2021/)

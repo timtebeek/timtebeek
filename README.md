@@ -37,7 +37,7 @@ Here's an overview of recent talks and workshops.
 
 [Devoxx Belgium 2022](https://devoxx.be/talk/?id=16776)
 🇧🇪 Antwerp,
-30 minutes
+[📽️](https://www.youtube.com/watch?v=7fslFKkCkxg)  30 minutes
 
 [BaselOne 2022](https://www.baselone.ch/speech.html?id=04AF2172-A549-47BD-8731-79E4CAC3496D)
 🇨🇭 Basel,

@@ -9,7 +9,7 @@ When not at work you'll find me travelling, bouldering, snowboarding, mountainbi
 Occasionally I get to present at conferences.
 Here's an overview of recent talks and workshops.
 
-### Major migrations made easy
+### [Major migrations made easy](https://timtebeek.github.io/major-migrations-made-easy-slides/1)
 
 [Devoxx France 2022](https://cfp.devoxx.fr/2022/talk/TPL-7294/Major_migrations_made_easy)
 🇫🇷 Paris,
@@ -43,42 +43,35 @@ Here's an overview of recent talks and workshops.
 🇨🇭 Basel,
 25 minutes
 
-### Choose your own adventure with Spring Security
+### [Choose your own adventure with Spring Security](https://github.com/timtebeek/spring-security-workshop)
 
 [Spring I/O 2022](https://2022.springio.net/sessions/choose-your-own-adventure-with-spring-security-workshop)
 🇪🇸 Barcelona,
-[🧑‍💻](https://github.com/timtebeek/spring-security-workshop)
-120 minutes
+🧑‍💻 120 minutes
 
 [Devoxx Poland 2022](https://devoxx.pl/talk-details/?id=3160)
 🇵🇱 Krakow,
-[🧑‍💻](https://github.com/timtebeek/spring-security-workshop)
-180 minutes
+🧑‍💻 180 minutes
 
 [FortX 2022](https://www.fortx.jdriven.com/)
 🇳🇱 Nieuwegein,
-[🧑‍💻](https://github.com/timtebeek/spring-security-workshop)
-120 minutes
+🧑‍💻 120 minutes
 
 [JBCNConf 2022](https://www.jbcnconf.com/2022/infoTalk.html?id=621909084010570ba9b6dd6c)
 🇪🇸 Barcelona,
-[🧑‍💻](https://github.com/timtebeek/spring-security-workshop)
-120 minutes
+🧑‍💻 120 minutes
 
 [JavaZone 2022](https://2022.javazone.no/#/workshops/ea79977f-0613-4fe2-b24a-320b1ce01a4e)
 🇳🇴 Oslo,
-[🧑‍💻](https://github.com/timtebeek/spring-security-workshop)
-120 minutes
+🧑‍💻 120 minutes
 
 [Devoxx Morocco 2022](https://devoxx.ma/talk/?id=7362)
 🇲🇦 Agadir,
-[🧑‍💻](https://github.com/timtebeek/spring-security-workshop)
-120 minutes
+🧑‍💻 120 minutes
 
 [JFall 2022](https://jfall.nl/timetable-2022/)
 🇳🇱 Ede,
-[🧑‍💻](https://github.com/timtebeek/spring-security-workshop)
-180 minutes
+🧑‍💻 180 minutes
 
 ### Document your lousily coupled micro service architecture
 

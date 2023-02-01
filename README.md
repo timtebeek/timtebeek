@@ -43,6 +43,14 @@ Here's an overview of recent talks and workshops.
 🇨🇭 Basel,
 25 minutes
 
+[FOSDEM 2023](https://fosdem.org/2023/schedule/event/migrations/)
+🇧🇪 Brussels,
+20 minutes
+
+[VoxxedDays Zürich 2023](https://voxxeddays.com/zurich/schedule/talk/?id=4509)
+🇨🇭 Zürich,
+20 minutes
+
 ### [Choose your own adventure with Spring Security](https://github.com/timtebeek/spring-security-workshop)
 
 [Spring I/O 2022](https://2022.springio.net/sessions/choose-your-own-adventure-with-spring-security-workshop)

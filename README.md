@@ -9,7 +9,39 @@ When not at work you'll find me travelling, bouldering, snowboarding, mountainbi
 Occasionally I get to present at conferences.
 Here's an overview of recent talks and workshops.
 
+### Spring Boot 3 is here: Where are you? (workshop)
+
+[Spring I/O 2023](https://2023.springio.net/sessions/spring-boot-3-is-here-where-are-you-workshop/)
+🇪🇸 Barcelona,
+🧑‍💻 120 minutes
+
 ### [Major migrations made easy](https://timtebeek.github.io/major-migrations-made-easy-slides/1)
+
+#### 2023
+
+[FOSDEM 2023](https://fosdem.org/2023/schedule/event/migrations/)
+🇧🇪 Brussels,
+20 minutes
+
+[VoxxedDays Zürich 2023](https://voxxeddays.com/zurich/schedule/talk/?id=4509)
+🇨🇭 Zürich,
+[📽️](https://www.youtube.com/watch?v=q-Le1dx2-t8) 20 minutes
+
+[GeeCON 2023](https://2023.geecon.org/speakers/info.html?id=796)
+🇵🇱 Krakow,
+
+[Devoxx UK 2023](https://www.devoxx.co.uk/talk/?id=3126)
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 London,
+30 minutes
+
+[jPrime 2023](https://jprime.io)
+🇧🇬 Sofia,
+
+[JCON Europe](https://jconeurope2023.sched.com/event/1K3zc)
+🇩🇪 Cologne,
+45 minutes
+
+#### 2022
 
 [Devoxx France 2022](https://cfp.devoxx.fr/2022/talk/TPL-7294/Major_migrations_made_easy)
 🇫🇷 Paris,
@@ -42,14 +74,6 @@ Here's an overview of recent talks and workshops.
 [BaselOne 2022](https://www.baselone.ch/speech.html?id=04AF2172-A549-47BD-8731-79E4CAC3496D)
 🇨🇭 Basel,
 25 minutes
-
-[FOSDEM 2023](https://fosdem.org/2023/schedule/event/migrations/)
-🇧🇪 Brussels,
-20 minutes
-
-[VoxxedDays Zürich 2023](https://voxxeddays.com/zurich/schedule/talk/?id=4509)
-🇨🇭 Zürich,
-20 minutes
 
 ### [Choose your own adventure with Spring Security](https://github.com/timtebeek/spring-security-workshop)
 

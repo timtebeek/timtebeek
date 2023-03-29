@@ -37,11 +37,11 @@ Here's an overview of recent talks and workshops.
 [jPrime 2023](https://jprime.io)
 🇧🇬 Sofia,
 
-[JCON Europe](https://jconeurope2023.sched.com/event/1K3zc)
+[JCON Europe 2023](https://jconeurope2023.sched.com/event/1K3zc)
 🇩🇪 Cologne,
 45 minutes
 
-[DevBCN](https://www.devbcn.com/talk/429442)
+[DevBCN 2023](https://www.devbcn.com/talk/429442)
 🇪🇸 Barcelona,
 
 #### 2022

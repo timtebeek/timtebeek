@@ -41,6 +41,9 @@ Here's an overview of recent talks and workshops.
 🇩🇪 Cologne,
 45 minutes
 
+[DevBCN](https://www.devbcn.com/talk/429442)
+🇪🇸 Barcelona,
+
 #### 2022
 
 [Devoxx France 2022](https://cfp.devoxx.fr/2022/talk/TPL-7294/Major_migrations_made_easy)

@@ -29,13 +29,15 @@ Here's an overview of recent talks and workshops.
 
 [GeeCON 2023](https://2023.geecon.org/speakers/info.html?id=796)
 🇵🇱 Krakow,
+50 minutes
 
 [Devoxx UK 2023](https://www.devoxx.co.uk/talk/?id=3126)
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London,
 30 minutes
 
-[jPrime 2023](https://jprime.io)
+[jPrime 2023](https://jprime.io/agenda/155)
 🇧🇬 Sofia,
+50 minutes
 
 [JCON Europe 2023](https://jconeurope2023.sched.com/event/1K3zc)
 🇩🇪 Cologne,

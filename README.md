@@ -125,7 +125,9 @@ Here's an overview of recent talks and workshops.
 
 ## Featured
 
-### Podcast
+### Podcasts
+In April of 2023 I joined Foojay Podcast \#19 to talk about ["How Working For Free For Fun Brought Me Fame and Fortune – Or At Least Some Of Each – In The End"](https://foojay.io/today/foojay-podcast-19/).
+
 In June of 2022 I was invited onto the "Passie voor Technologie" podcast, to talk about [the Techradar initiative at JDriven](https://open.spotify.com/episode/7GmstXlZ9Rt6KNokULk1gj) (in Dutch).
 
 ### Mentions

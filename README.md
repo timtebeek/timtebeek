@@ -141,4 +141,4 @@ was mentioned on [Twitter by Josh Long](https://twitter.com/starbuxman/status/11
 
 [Major migrations made easy by Tim te Beek @ Spring I/O 2022](https://www.youtube.com/watch?v=d8xU24x7Jqo) was mentioned on [Björn Wilmsmann's blog](https://bjoernkw.com/2022/07/10/major-migrations-made-easy-by-tim-te-beek-spring-i-o-2022/) and on [Twitter by Adib Saikali](https://twitter.com/asaikali/status/1536499296471752704) and others.
 
-[OpenSource contributions to rewrite-testing-frameworks](https://github.com/openrewrite/rewrite-testing-frameworks/commits?author=timtebeek) were mentioned on [the 1.27.0 release notes](https://github.com/openrewrite/rewrite-testing-frameworks/releases/tag/v1.27.0).
+[Upgrading to Axon Framework 4.7 - Automated](https://developer.axoniq.io/w/upgrading-to-axon-framework-4.7-automated) features [my contribution of OpenRewrite migration recipes to Axon Framework](https://github.com/AxonFramework/AxonFramework/pull/2597).

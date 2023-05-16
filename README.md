@@ -43,6 +43,9 @@ Here's an overview of recent talks and workshops.
 🇩🇪 Cologne,
 45 minutes
 
+[JSpring 2023](https://jspring.nl/speakers/tim-te-beek/)
+🇳🇱 Utrecht,
+
 [DevBCN 2023](https://www.devbcn.com/talk/429442)
 🇪🇸 Barcelona,
 

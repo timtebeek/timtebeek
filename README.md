@@ -9,7 +9,11 @@ When not at work you'll find me travelling, bouldering, snowboarding, mountainbi
 Occasionally I get to present at conferences.
 Here's an overview of recent talks and workshops.
 
-### Spring Boot 3 is here: Where are you? (workshop)
+### [Spring Boot 3 is here: Where are you? (workshop)](https://github.com/moderneinc/springboot-migration-workshop)
+
+[JavaZone 2023](https://2023.javazone.no/)
+🇳🇴 Oslo,
+🧑‍💻 120 minutes
 
 [Spring I/O 2023](https://2023.springio.net/sessions/spring-boot-3-is-here-where-are-you-workshop/)
 🇪🇸 Barcelona,
@@ -45,6 +49,7 @@ Here's an overview of recent talks and workshops.
 
 [JSpring 2023](https://jspring.nl/speakers/tim-te-beek/)
 🇳🇱 Utrecht,
+45 minutes
 
 [DevBCN 2023](https://www.devbcn.com/talk/429442)
 🇪🇸 Barcelona,

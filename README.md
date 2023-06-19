@@ -37,7 +37,7 @@ Here's an overview of recent talks and workshops.
 
 [Devoxx UK 2023](https://www.devoxx.co.uk/talk/?id=3126)
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London,
-30 minutes
+[📽️](https://www.youtube.com/watch?v=Jzgqj1vY2k0) 30 minutes
 
 [jPrime 2023](https://jprime.io/agenda/155)
 🇧🇬 Sofia,
@@ -53,6 +53,7 @@ Here's an overview of recent talks and workshops.
 
 [DevBCN 2023](https://www.devbcn.com/talk/429442)
 🇪🇸 Barcelona,
+50 minutes
 
 #### 2022
 

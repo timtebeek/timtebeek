@@ -41,7 +41,7 @@ Here's an overview of recent talks and workshops.
 
 [jPrime 2023](https://jprime.io/agenda/155)
 🇧🇬 Sofia,
-50 minutes
+[📽️](https://youtu.be/4EB8DrvXbVQ) 50 minutes
 
 [JCON Europe 2023](https://jconeurope2023.sched.com/event/1K3zc)
 🇩🇪 Cologne,

@@ -11,7 +11,11 @@ Here's an overview of recent talks and workshops.
 
 ### [Spring Boot 3 is here: Where are you? (workshop)](https://github.com/moderneinc/springboot-migration-workshop)
 
-[JavaZone 2023](https://2023.javazone.no/)
+[JavaCro 2023](https://2023.javacro.hr/eng/Program/Spring-Boot-3-is-here-where-are-you)
+🇭🇷 Rovinj,
+🧑‍💻 90 minutes
+
+[JavaZone 2023](https://2023.javazone.no/program/)
 🇳🇴 Oslo,
 🧑‍💻 120 minutes
 
@@ -54,6 +58,10 @@ Here's an overview of recent talks and workshops.
 [DevBCN 2023](https://www.devbcn.com/talk/429442)
 🇪🇸 Barcelona,
 50 minutes
+
+[JavaCro 2023](https://2023.javacro.hr/eng/Program/Major-Migrations-Made-Easy)
+🇭🇷 Rovinj,
+🧑‍💻 45 minutes
 
 #### 2022
 

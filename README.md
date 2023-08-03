@@ -1,9 +1,6 @@
 Staff software engineer who enjoys working with and contributing to Open Source such as Spring Boot, Kafka, WireMock, OpenRewrite and ArchUnit.
 When not at work you'll find me traveling, bouldering, snowboarding, mountainbiking or at one of many cultural events around my home town or abroad.
 
-- [My JDriven Blog Posts](https://blog.jdriven.com/author/tim-te-beek/)
-- [My StackOverflow](https://stackoverflow.com/users/53444/tim)
-
 ## Talks & workshops
 
 Occasionally I get to present at conferences.
@@ -146,6 +143,11 @@ Here's an overview of recent talks and workshops.
 In April of 2023 I joined Foojay Podcast \#19 to talk about ["How Working For Free For Fun Brought Me Fame and Fortune – Or At Least Some Of Each – In The End"](https://foojay.io/today/foojay-podcast-19/).
 
 In June of 2022 I was invited onto the "Passie voor Technologie" podcast, to talk about [the Techradar initiative at JDriven](https://open.spotify.com/episode/7GmstXlZ9Rt6KNokULk1gj) (in Dutch).
+
+### Blog posts
+
+- [Moderne blog](https://www.moderne.io/blog)
+- [My JDriven blog posts](https://blog.jdriven.com/author/tim-te-beek/)
 
 ### Mentions
 

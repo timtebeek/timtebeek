@@ -46,7 +46,7 @@ Here's an overview of recent talks and workshops.
 
 [JCON Europe 2023](https://jconeurope2023.sched.com/event/1K3zc)
 🇩🇪 Cologne,
-45 minutes
+[📽️](https://www.youtube.com/watch?v=2KosvX287cE) 50 minutes
 
 [JSpring 2023](https://jspring.nl/speakers/tim-te-beek/)
 🇳🇱 Utrecht,

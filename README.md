@@ -32,7 +32,7 @@ Here's an overview of recent talks and workshops.
 
 [JFall 2023](https://jfall.nl/)
 🇳🇱 Ede,
-120 minutes
+16 minutes
 
 ### [Spring Boot 3 is here: Where are you?](https://moderneinc.github.io/springboot-migration-workshop/) (workshop)
 

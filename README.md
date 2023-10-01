@@ -12,7 +12,7 @@ Here's an overview of recent talks and workshops.
 🇷🇴 Bucharest,
 45 minutes
 
-[iDD 2023](https://jdd.org.pl/lecture_2023/#id=87849)
+[{j}DD 2023](https://jdd.org.pl/lecture_2023/#id=87849)
 🇵🇱 Krakow,
 45 minutes
 

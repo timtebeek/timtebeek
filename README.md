@@ -30,13 +30,13 @@ Here's an overview of recent talks and workshops.
 
 ### [Modernize your money-maker](https://sessionize.com/s/timtebeek/modernize-your-money-maker/74076)
 
-[JFall 2023](https://jfall.nl/)
+[JFall 2023](https://jfall.nl/speakers-2023/)
 🇳🇱 Ede,
 16 minutes
 
 ### [Spring Boot 3 is here: Where are you?](https://moderneinc.github.io/springboot-migration-workshop/) (workshop)
 
-[JFall 2023](https://jfall.nl/)
+[JFall 2023](https://jfall.nl/speakers-2023/)
 🇳🇱 Ede,
 🧑‍💻 120 minutes
 

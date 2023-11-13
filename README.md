@@ -8,10 +8,6 @@ Here's an overview of recent talks and workshops.
 
 ### [Maintaining Maven at Scale](https://sessionize.com/s/timtebeek/maintaining-maven-at-scale/74075)
 
-[Java Meet-up November 2023](https://www.linkedin.com/events/javamachinelearningatthejavamee7120314917206769665/)
-🇳🇱 Amsterdam,
-50 minutes
-
 [DevCon Java 2023](https://www.dev-con.ro/speakers/3-Tim+te+Beek)
 🇷🇴 Bucharest,
 45 minutes

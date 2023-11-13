@@ -22,7 +22,7 @@ Here's an overview of recent talks and workshops.
 
 [Devoxx Belgium 2023](https://devoxx.be/talk/?id=48053)
 🇧🇪 Antwerp,
-50 minutes
+[📽️](https://www.youtube.com/watch?v=o3rMdXR2bIU) 50 minutes
 
 [Rotterdam JUG September 2023](https://www.meetup.com/rotterdamjug/events/295778651/)
 🇳🇱 Rotterdam,

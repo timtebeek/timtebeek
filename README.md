@@ -34,7 +34,7 @@ Here's an overview of recent talks and workshops.
 🇳🇱 Ede,
 16 minutes
 
-### [Spring Boot 3 is here: Where are you?](https://moderneinc.github.io/springboot-migration-workshop/) (workshop)
+### [Spring Boot 3 is here: Where are you?](https://docs.moderne.io/user-documentation/workshops/spring-boot-migration-workshop) (workshop)
 
 [JFall 2023](https://jfall.nl/speakers-2023/)
 🇳🇱 Ede,

@@ -17,7 +17,7 @@ Here's an overview of recent talks and workshops.
 🇲🇦 Agadir,
 50 minutes
 * [Devoxx Belgium 2023](https://devoxx.be/talk/?id=48053)
-🇧🇪 Antwerp,* [📽️](https://www.youtube.com/watch?v=o3rMdXR2bIU) 50 minutes
+🇧🇪 Antwerp, [📽️](https://www.youtube.com/watch?v=o3rMdXR2bIU) 50 minutes
 * [Rotterdam JUG September 2023](https://www.meetup.com/rotterdamjug/events/295778651/)
 🇳🇱 Rotterdam,
 45 minutes
@@ -54,16 +54,16 @@ Here's an overview of recent talks and workshops.
 🇳🇱 Utrecht,
 45 minutes
 * [JCON Europe 2023](https://jconeurope2023.sched.com/event/1K3zc)
-🇩🇪 Cologne,* [📽️](https://www.youtube.com/watch?v=2KosvX287cE) 50 minutes
+🇩🇪 Cologne, [📽️](https://www.youtube.com/watch?v=2KosvX287cE) 50 minutes
 * [jPrime 2023](https://jprime.io/agenda/155)
-🇧🇬 Sofia,* [📽️](https://youtu.be/4EB8DrvXbVQ) 50 minutes
+🇧🇬 Sofia, [📽️](https://youtu.be/4EB8DrvXbVQ) 50 minutes
 * [Devoxx UK 2023](https://www.devoxx.co.uk/talk/?id=3126)
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 London,* [📽️](https://www.youtube.com/watch?v=Jzgqj1vY2k0) 30 minutes
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, [📽️](https://www.youtube.com/watch?v=Jzgqj1vY2k0) 30 minutes
 * [GeeCON 2023](https://2023.geecon.org/speakers/info.html?id=796)
 🇵🇱 Krakow,
 50 minutes
 * [VoxxedDays Zürich 2023](https://voxxeddays.com/zurich/schedule/talk/?id=4509)
-🇨🇭 Zürich,* [📽️](https://www.youtube.com/watch?v=q-Le1dx2-t8) 20 minutes
+🇨🇭 Zürich, [📽️](https://www.youtube.com/watch?v=q-Le1dx2-t8) 20 minutes
 * [Arnhem JUG February 2023](https://www.meetup.com/arnhemjug/events/290692019/)
 🇳🇱 Arnhem,
 30 minutes
@@ -76,25 +76,25 @@ Here's an overview of recent talks and workshops.
 🇨🇭 Basel,
 25 minutes
 * [Devoxx Belgium 2022](https://devoxx.be/talk/?id=16776)
-🇧🇪 Antwerp,* [📽️](https://www.youtube.com/watch?v=7fslFKkCkxg)
+🇧🇪 Antwerp, [📽️](https://www.youtube.com/watch?v=7fslFKkCkxg)
 30 minutes
 * [Devoxx Morocco 2022](https://devoxx.ma/talk/?id=8815)
 🇲🇦 Agadir,
 25 minutes
 * [Devoxx Poland 2022](https://devoxx.pl/talk-details/?id=2311)
-🇵🇱 Krakow,* [📽️](https://www.youtube.com/watch?v=rg1TcaHv-24)
+🇵🇱 Krakow, [📽️](https://www.youtube.com/watch?v=rg1TcaHv-24)
 15 minutes
 * [VoxxedDays Luxembourg 2022](https://cfp-voxxed-lux.yajug.org/2022/talk/EIY-8151/Major_migrations_made_easy)
-🇱🇺 Luxembourg,* [📽️](https://www.youtube.com/watch?v=6qLe-tZ9Kv0)
+🇱🇺 Luxembourg, [📽️](https://www.youtube.com/watch?v=6qLe-tZ9Kv0)
 15 minutes
 * [Spring I/O 2022](https://2022.springio.net/sessions/major-migrations-made-easy)
-🇪🇸 Barcelona,* [📽️](https://www.youtube.com/watch?v=d8xU24x7Jqo)
+🇪🇸 Barcelona, [📽️](https://www.youtube.com/watch?v=d8xU24x7Jqo)
 50 minutes
 * [TEQnation 2022](https://teqnation.com/speakers-2022/)
 🇳🇱 Utrecht,
 15 minutes
 * [Devoxx France 2022](https://cfp.devoxx.fr/2022/talk/TPL-7294/Major_migrations_made_easy)
-🇫🇷 Paris,* [📽️](https://www.youtube.com/watch?v=r_jFBDTPKSc)
+🇫🇷 Paris, [📽️](https://www.youtube.com/watch?v=r_jFBDTPKSc)
 15 minutes
 
 ### [Choose your own adventure with Spring Security](https://github.com/timtebeek/spring-security-workshop) (workshop)
@@ -122,7 +122,7 @@ Here's an overview of recent talks and workshops.
 
 ### [Document your lousily coupled micro service architecture](https://2021.jfall.nl/speakers-2021/)
 * [JFall 2021](https://2021.jfall.nl/speakers-2021/)
-🇳🇱 Ede,* [📽️](https://youtu.be/Y5MfzYjTBX8?t=2142) 5 minutes
+🇳🇱 Ede, [📽️](https://youtu.be/Y5MfzYjTBX8?t=2142) 5 minutes
 
 ### [Getting started with Kafka Streams](https://github.com/jresoort/kafkastreams-workshop)
 * [Spring I/O 2018](https://2018.springio.net/speakers/tim-te-beek)

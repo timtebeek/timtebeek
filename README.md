@@ -132,8 +132,9 @@ Here's an overview of recent talks and workshops.
 ## Featured
 
 ### Podcasts
-* In April of 2023 I joined Foojay Podcast #19 to talk about ["How Working For Free For Fun Brought Me Fame and Fortune – Or At Least Some Of Each – In The End"](https://foojay.io/today/foojay-podcast-19/).
-* In June of 2022 I was invited onto the "Passie voor Technologie" podcast, to talk about [the Techradar initiative at JDriven](https://open.spotify.com/episode/7GmstXlZ9Rt6KNokULk1gj) (in Dutch).
+* Quarkus Insights #151: [Get ready for Quarkus 3.7+: Auto-migrate to Java 17+ now using OpenRewrite](https://youtube.com/live/BlJk1-SNv9s)
+* Foojay Podcast #19: [How Working For Free For Fun Brought Me Fame and Fortune – Or At Least Some Of Each – In The End](https://foojay.io/today/foojay-podcast-19/).
+* Passie voor Technologie - De Podcast #3: [de Techradar](https://open.spotify.com/episode/7GmstXlZ9Rt6KNokULk1gj) (in Dutch).
 
 ### Blog posts
 

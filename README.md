@@ -47,7 +47,7 @@ Here's an overview of recent talks and workshops.
 * [JavaCro 2023](https://2023.javacro.hr/eng/Program/Major-Migrations-Made-Easy)
 🇭🇷 Rovinj,
 🧑‍💻 45 minutes
-* [DevBCN 2023](https://www.devbcn.com/talk/429442)
+* [DevBCN 2023](https://www.devbcn.com/2023/talk/429442)
 🇪🇸 Barcelona,
 50 minutes
 * [JSpring 2023](https://jspring.nl/speakers/tim-te-beek/)

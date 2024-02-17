@@ -6,17 +6,17 @@ When not at work you'll find me traveling, bouldering, snowboarding, mountainbik
 Occasionally I get to present at conferences & meetups.
 Here's an overview of recent talks and workshops.
 
-### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/timtebeek/transforming-code-with-openrewrite-and-refaster/89847) (workshop)
-
-* [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI)
-🇩🇪 Cologne,
-🧑‍💻 240 minutes
-
 ### [Weeding Your Micro Service Landscape](https://sessionize.com/s/timtebeek/weeding-your-micro-service-landscape/83434)
 
 * [JCON Europe 2024](https://jconeurope2024.sched.com/event/1YwSG)
 🇩🇪 Cologne,
 45 minutes
+
+### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/timtebeek/transforming-code-with-openrewrite-and-refaster/89847) (workshop)
+
+* [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI)
+🇩🇪 Cologne,
+🧑‍💻 240 minutes
 
 ### [Fundamentals of Migration Engineering with OpenRewrite](https://sessionize.com/s/timtebeek/fundamentals-of-migration-engineering-with-openrew/89846) (workshop)
 

@@ -6,6 +6,24 @@ When not at work you'll find me traveling, bouldering, snowboarding, mountainbik
 Occasionally I get to present at conferences & meetups.
 Here's an overview of recent talks and workshops.
 
+### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/timtebeek/transforming-code-with-openrewrite-and-refaster/89847) (workshop)
+
+* [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI)
+🇩🇪 Cologne,
+🧑‍💻 240 minutes
+
+### [Weeding Your Micro Service Landscape](https://sessionize.com/s/timtebeek/weeding-your-micro-service-landscape/83434)
+
+* [JCON Europe 2024](https://jconeurope2024.sched.com/event/1YwSG)
+🇩🇪 Cologne,
+45 minutes
+
+### [Fundamentals of Migration Engineering with OpenRewrite](https://sessionize.com/s/timtebeek/fundamentals-of-migration-engineering-with-openrew/89846) (workshop)
+
+* [Devoxx France 2024](https://www.devoxx.fr/en/)
+🇫🇷 Paris,
+🧑‍💻 120 minutes
+
 ### [Maintaining Maven at Scale](https://sessionize.com/s/timtebeek/maintaining-maven-at-scale/74075)
 * [DevCon Java 2023](https://www.dev-con.ro/speakers/3-Tim+te+Beek)
 🇷🇴 Bucharest,
@@ -124,15 +142,18 @@ Here's an overview of recent talks and workshops.
 * [JFall 2021](https://2021.jfall.nl/speakers-2021/)
 🇳🇱 Ede, [📽️](https://youtu.be/Y5MfzYjTBX8?t=2142) 5 minutes
 
-### [Getting started with Kafka Streams](https://github.com/jresoort/kafkastreams-workshop)
+### [Getting started with Kafka Streams](https://github.com/jresoort/kafkastreams-workshop) (workshop)
 * [Spring I/O 2018](https://2018.springio.net/speakers/tim-te-beek)
 🇪🇸 Barcelona,
 🧑‍💻 120 minutes
 
 ## Featured
 
+### Live streams
+* Co-host the weekly [OpenRewrite Community Office Hours](https://www.youtube.com/@moderne-auto-remediation/streams).
+* Quarkus Insights #151: [Get ready for Quarkus 3.7+: Auto-migrate to Java 17+ now using OpenRewrite](https://youtube.com/live/BlJk1-SNv9s).
+
 ### Podcasts
-* Quarkus Insights #151: [Get ready for Quarkus 3.7+: Auto-migrate to Java 17+ now using OpenRewrite](https://youtube.com/live/BlJk1-SNv9s)
 * Foojay Podcast #19: [How Working For Free For Fun Brought Me Fame and Fortune – Or At Least Some Of Each – In The End](https://foojay.io/today/foojay-podcast-19/).
 * Passie voor Technologie - De Podcast #3: [de Techradar](https://open.spotify.com/episode/7GmstXlZ9Rt6KNokULk1gj) (in Dutch).
 

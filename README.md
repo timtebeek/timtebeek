@@ -6,6 +6,12 @@ When not at work you'll find me traveling, bouldering, snowboarding, mountainbik
 Occasionally I get to present at conferences & meetups.
 Here's an overview of recent talks and workshops.
 
+### [Automated software refactoring with OpenRewrite and Generative AI](https://sessionize.com/s/timtebeek/automated-software-refactoring-with-openrewrite-an/91981)
+
+* [Spring I/O 2024](https://2024.springio.net/sessions/automated-software-refactoring-with-openrewrite-and-generative-ai/)
+🇪🇸 Barcelona, [📽️](https://www.youtube.com/watch?v=d8xU24x7Jqo)
+50 minutes
+
 ### [Weeding Your Micro Service Landscape](https://sessionize.com/s/timtebeek/weeding-your-micro-service-landscape/83434)
 
 * [JCON Europe 2024](https://jconeurope2024.sched.com/event/1YwSG)
@@ -20,6 +26,10 @@ Here's an overview of recent talks and workshops.
 
 ### [Fundamentals of Migration Engineering with OpenRewrite](https://sessionize.com/s/timtebeek/fundamentals-of-migration-engineering-with-openrew/89846) (workshop)
 
+* [JNation 2024](https://jnation.pt/)
+🇵🇹 Coimbra,
+🧑‍💻 180 minutes
+  
 * [Devoxx France 2024](https://www.devoxx.fr/en/)
 🇫🇷 Paris,
 🧑‍💻 120 minutes

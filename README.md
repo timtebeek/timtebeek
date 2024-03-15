@@ -9,7 +9,7 @@ Here's an overview of recent talks and workshops.
 ### [Automated software refactoring with OpenRewrite and Generative AI](https://sessionize.com/s/timtebeek/automated-software-refactoring-with-openrewrite-an/91981)
 
 * [Spring I/O 2024](https://2024.springio.net/sessions/automated-software-refactoring-with-openrewrite-and-generative-ai/)
-🇪🇸 Barcelona, [📽️](https://www.youtube.com/watch?v=d8xU24x7Jqo)
+🇪🇸 Barcelona,
 50 minutes
 
 ### [Weeding Your Micro Service Landscape](https://sessionize.com/s/timtebeek/weeding-your-micro-service-landscape/83434)

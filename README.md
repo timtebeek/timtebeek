@@ -71,7 +71,6 @@ Here's an overview of recent talks and workshops.
 
 ### [Major migrations made easy](https://sessionize.com/s/timtebeek/major-migrations-made-easy/48781)
 
-#### 2023
 * [JavaCro 2023](https://2023.javacro.hr/eng/Program/Major-Migrations-Made-Easy)
 🇭🇷 Rovinj,
 🧑‍💻 45 minutes
@@ -98,8 +97,6 @@ Here's an overview of recent talks and workshops.
 * [FOSDEM 2023](https://fosdem.org/2023/schedule/event/migrations/)
 🇧🇪 Brussels,
 20 minutes
-
-#### 2022
 * [BaselOne 2022](https://www.baselone.ch/speech.html?id=04AF2172-A549-47BD-8731-79E4CAC3496D)
 🇨🇭 Basel,
 25 minutes

@@ -30,7 +30,7 @@ Here's an overview of recent talks and workshops.
 🇵🇹 Coimbra,
 🧑‍💻 180 minutes
   
-* [Devoxx France 2024](https://www.devoxx.fr/en/)
+* [Devoxx France 2024](https://www.devoxx.fr/schedule/talk/?id=25633)
 🇫🇷 Paris,
 🧑‍💻 120 minutes
 
@@ -53,7 +53,7 @@ Here's an overview of recent talks and workshops.
 ### [Modernize your money-maker](https://sessionize.com/s/timtebeek/modernize-your-money-maker/74076)
 * [JFall 2023](https://jfall.nl/speakers-2023/)
 🇳🇱 Ede, [📽️](https://youtu.be/Jgi-n0w8g0U?si=NlXjOcd422vmtTe2)
-16 minutes
+13 minutes
 
 ### [Spring Boot 3 is here: Where are you?](https://docs.moderne.io/user-documentation/workshops/spring-boot-migration-workshop) (workshop)
 * [JFall 2023](https://jfall.nl/speakers-2023/)

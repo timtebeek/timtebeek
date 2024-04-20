@@ -158,6 +158,7 @@ Here's an overview of recent talks and workshops.
 
 ### Live streams
 * Co-host the weekly [OpenRewrite Community Office Hours](https://www.youtube.com/@moderne-auto-remediation/streams).
+* Gradle's [Build Propulsion Lab at Devoxx France](https://twitter.com/i/broadcasts/1RDxlldrBWdxL).
 * Quarkus Insights #151: [Get ready for Quarkus 3.7+: Auto-migrate to Java 17+ now using OpenRewrite](https://youtube.com/live/BlJk1-SNv9s).
 
 ### Podcasts
@@ -166,8 +167,18 @@ Here's an overview of recent talks and workshops.
 
 ### Blog posts
 
-* [Moderne blog](https://www.moderne.io/blog)
-* [My JDriven blog posts](https://blog.jdriven.com/author/tim-te-beek/)
+* [Stop breaking CI—annotate PRs with OpenRewrite recipe fixes as your quality gate](https://www.moderne.io/blog/stop-breaking-ci-annotate-prs-with-openrewrite-recipe-fixes-as-quality-gate)
+* [Streamline feature flag management: Automate removal with OpenRewrite & Moderne
+  ](https://www.moderne.io/blog/streamline-feature-flag-management-automate-removal-with-openrewrite-moderne)
+* [Speed your Spring Boot 3.2 migration
+  ](https://www.moderne.io/blog/speed-your-spring-boot-3-0-migration)
+* [Migrating from Hamcrest to AssertJ with OpenRewrite and Moderne
+  ](https://www.moderne.io/blog/migrating-from-hamcrest-to-assertj-with-openrewrite-and-moderne)
+* [Micronaut framework 4.0 release incorporates auto-upgrade with OpenRewrite recipes
+  ](https://www.moderne.io/blog/micronaut-framework-4-0-automated-upgrade-with-openrewrite)
+* [How Axon Framework handles breaking changes through OpenRewrite
+  ](https://www.moderne.io/blog/how-axon-framework-handles-breaking-changes-through-openrewrite) 
+* [JDriven blog posts](https://blog.jdriven.com/author/tim-te-beek/)
 
 ### Mentions
 * [Spring Cloud Gateway with OpenID Connect and Token Relay](https://blog.jdriven.com/2019/11/spring-cloud-gateway-with-openid-connect-and-token-relay/)

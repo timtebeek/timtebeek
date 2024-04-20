@@ -8,151 +8,74 @@ Here's an overview of recent talks and workshops.
 
 ### [Automated software refactoring with OpenRewrite and Generative AI](https://sessionize.com/s/timtebeek/automated-software-refactoring-with-openrewrite-an/91981)
 
-* [Spring I/O 2024](https://2024.springio.net/sessions/automated-software-refactoring-with-openrewrite-and-generative-ai/)
-🇪🇸 Barcelona,
-50 minutes
+* 🇪🇸 Barcelona, [Spring I/O 2024](https://2024.springio.net/sessions/automated-software-refactoring-with-openrewrite-and-generative-ai/), 50 minutes
 
 ### [Weeding Your Micro Service Landscape](https://sessionize.com/s/timtebeek/weeding-your-micro-service-landscape/83434)
 
-* [JCON Europe 2024](https://jconeurope2024.sched.com/event/1YwSG)
-🇩🇪 Cologne,
-45 minutes
+* 🇩🇪 Cologne, [JCON Europe 2024](https://jconeurope2024.sched.com/event/1YwSG), 45 minutes
 
 ### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/timtebeek/transforming-code-with-openrewrite-and-refaster/89847) (workshop)
 
-* [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI)
-🇩🇪 Cologne,
-🧑‍💻 240 minutes
+* 🇩🇪 Cologne, [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI), 240 minutes 🧑‍💻
 
 ### [Fundamentals of Migration Engineering with OpenRewrite](https://sessionize.com/s/timtebeek/fundamentals-of-migration-engineering-with-openrew/89846) (workshop)
 
-* [JNation 2024](https://jnation.pt/)
-🇵🇹 Coimbra,
-🧑‍💻 180 minutes
+* 🇵🇹 Coimbra, [JNation 2024](https://jnation.pt/), 180 minutes 🧑‍💻
   
-* [Devoxx France 2024](https://www.devoxx.fr/schedule/talk/?id=25633)
-🇫🇷 Paris,
-🧑‍💻 120 minutes
+* 🇫🇷 Paris, [Devoxx France 2024](https://www.devoxx.fr/schedule/talk/?id=25633), 120 minutes 🧑‍💻
 
 ### [Maintaining Maven at Scale](https://sessionize.com/s/timtebeek/maintaining-maven-at-scale/74075)
-* [DevCon Java 2023](https://www.dev-con.ro/speakers/3-Tim+te+Beek)
-🇷🇴 Bucharest,
-45 minutes
-* [{j}DD 2023](https://jdd.org.pl/lecture_2023/#id=87849)
-🇵🇱 Krakow,
-45 minutes
-* [Devoxx Morocco 2023](https://devoxx.ma/talk/?id=25409)
-🇲🇦 Agadir,
-50 minutes
-* [Devoxx Belgium 2023](https://devoxx.be/talk/?id=48053)
-🇧🇪 Antwerp, [📽️](https://www.youtube.com/watch?v=o3rMdXR2bIU) 50 minutes
-* [Rotterdam JUG September 2023](https://www.meetup.com/rotterdamjug/events/295778651/)
-🇳🇱 Rotterdam,
-45 minutes
+* 🇷🇴 Bucharest, [DevCon Java 2023](https://www.dev-con.ro/speakers/3-Tim+te+Beek), 45 minutes
+* 🇵🇱 Krakow, [{j}DD 2023](https://jdd.org.pl/lecture_2023/#id=87849), 45 minutes
+* 🇲🇦 Agadir, [Devoxx Morocco 2023](https://devoxx.ma/talk/?id=25409), 50 minutes
+* 🇧🇪 Antwerp, [Devoxx Belgium 2023](https://devoxx.be/talk/?id=48053), 50 minutes [📽️](https://www.youtube.com/watch?v=o3rMdXR2bIU)
+* 🇳🇱 Rotterdam, [Rotterdam JUG September 2023](https://www.meetup.com/rotterdamjug/events/295778651/), 45 minutes
 
 ### [Modernize your money-maker](https://sessionize.com/s/timtebeek/modernize-your-money-maker/74076)
-* [JFall 2023](https://jfall.nl/speakers-2023/)
-🇳🇱 Ede, [📽️](https://youtu.be/Jgi-n0w8g0U?si=NlXjOcd422vmtTe2)
-13 minutes
+* 🇳🇱 Ede, [JFall 2023](https://jfall.nl/speakers-2023/), 13 minutes [📽️](https://youtu.be/Jgi-n0w8g0U?si=NlXjOcd422vmtTe2)
 
 ### [Spring Boot 3 is here: Where are you?](https://docs.moderne.io/user-documentation/workshops/spring-boot-migration-workshop) (workshop)
-* [JFall 2023](https://jfall.nl/speakers-2023/)
-🇳🇱 Ede,
-🧑‍💻 120 minutes
-* [JavaCro 2023](https://2023.javacro.hr/eng/Program/Spring-Boot-3-is-here-where-are-you)
-🇭🇷 Rovinj,
-🧑‍💻 90 minutes
-* [JavaZone 2023](https://2023.javazone.no/program/106f0d9f-3d6b-4131-be6b-36612dd29f97)
-🇳🇴 Oslo,
-🧑‍💻 120 minutes
-* [Spring I/O 2023](https://2023.springio.net/sessions/spring-boot-3-is-here-where-are-you-workshop/)
-🇪🇸 Barcelona,
-🧑‍💻 120 minutes
+* 🇳🇱 Ede, [JFall 2023](https://jfall.nl/speakers-2023/), 120 minutes 🧑‍💻
+* 🇭🇷 Rovinj, [JavaCro 2023](https://2023.javacro.hr/eng/Program/Spring-Boot-3-is-here-where-are-you), 90 minutes 🧑‍💻
+* 🇳🇴 Oslo, [JavaZone 2023](https://2023.javazone.no/program/106f0d9f-3d6b-4131-be6b-36612dd29f97), 120 minutes 🧑‍💻
+* 🇪🇸 Barcelona, [Spring I/O 2023](https://2023.springio.net/sessions/spring-boot-3-is-here-where-are-you-workshop/), 120 minutes 🧑‍💻
 
 ### [Major migrations made easy](https://sessionize.com/s/timtebeek/major-migrations-made-easy/48781)
 
-* [JavaCro 2023](https://2023.javacro.hr/eng/Program/Major-Migrations-Made-Easy)
-🇭🇷 Rovinj,
-🧑‍💻 45 minutes
-* [DevBCN 2023](https://www.devbcn.com/2023/talk/429442)
-🇪🇸 Barcelona,
-50 minutes
-* [JSpring 2023](https://jspring.nl/speakers/tim-te-beek/)
-🇳🇱 Utrecht,
-45 minutes
-* [JCON Europe 2023](https://jconeurope2023.sched.com/event/1K3zc)
-🇩🇪 Cologne, [📽️](https://www.youtube.com/watch?v=2KosvX287cE) 50 minutes
-* [jPrime 2023](https://jprime.io/agenda/155)
-🇧🇬 Sofia, [📽️](https://youtu.be/4EB8DrvXbVQ) 50 minutes
-* [Devoxx UK 2023](https://www.devoxx.co.uk/talk/?id=3126)
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, [📽️](https://www.youtube.com/watch?v=Jzgqj1vY2k0) 30 minutes
-* [GeeCON 2023](https://2023.geecon.org/speakers/info.html?id=796)
-🇵🇱 Krakow,
-50 minutes
-* [VoxxedDays Zürich 2023](https://voxxeddays.com/zurich/schedule/talk/?id=4509)
-🇨🇭 Zürich, [📽️](https://www.youtube.com/watch?v=q-Le1dx2-t8) 20 minutes
-* [Arnhem JUG February 2023](https://www.meetup.com/arnhemjug/events/290692019/)
-🇳🇱 Arnhem,
-30 minutes
-* [FOSDEM 2023](https://fosdem.org/2023/schedule/event/migrations/)
-🇧🇪 Brussels,
-20 minutes
-* [BaselOne 2022](https://www.baselone.ch/speech.html?id=04AF2172-A549-47BD-8731-79E4CAC3496D)
-🇨🇭 Basel,
-25 minutes
-* [Devoxx Belgium 2022](https://devoxx.be/talk/?id=16776)
-🇧🇪 Antwerp, [📽️](https://www.youtube.com/watch?v=7fslFKkCkxg)
-30 minutes
-* [Devoxx Morocco 2022](https://devoxx.ma/talk/?id=8815)
-🇲🇦 Agadir,
-25 minutes
-* [Devoxx Poland 2022](https://devoxx.pl/talk-details/?id=2311)
-🇵🇱 Krakow, [📽️](https://www.youtube.com/watch?v=rg1TcaHv-24)
-15 minutes
-* [VoxxedDays Luxembourg 2022](https://cfp-voxxed-lux.yajug.org/2022/talk/EIY-8151/Major_migrations_made_easy)
-🇱🇺 Luxembourg, [📽️](https://www.youtube.com/watch?v=6qLe-tZ9Kv0)
-15 minutes
-* [Spring I/O 2022](https://2022.springio.net/sessions/major-migrations-made-easy)
-🇪🇸 Barcelona, [📽️](https://www.youtube.com/watch?v=d8xU24x7Jqo)
-50 minutes
-* [TEQnation 2022](https://teqnation.com/speakers-2022/)
-🇳🇱 Utrecht,
-15 minutes
-* [Devoxx France 2022](https://cfp.devoxx.fr/2022/talk/TPL-7294/Major_migrations_made_easy)
-🇫🇷 Paris, [📽️](https://www.youtube.com/watch?v=r_jFBDTPKSc)
-15 minutes
+* 🇭🇷 Rovinj, [JavaCro 2023](https://2023.javacro.hr/eng/Program/Major-Migrations-Made-Easy), 45 minutes 🧑‍💻
+* 🇪🇸 Barcelona, [DevBCN 2023](https://www.devbcn.com/2023/talk/429442), 50 minutes
+* 🇳🇱 Utrecht, [JSpring 2023](https://jspring.nl/speakers/tim-te-beek/), 45 minutes
+* 🇩🇪 Cologne, [JCON Europe 2023](https://jconeurope2023.sched.com/event/1K3zc), 50 minutes [📽️](https://www.youtube.com/watch?v=2KosvX287cE)
+* 🇧🇬 Sofia, [jPrime 2023](https://jprime.io/agenda/155), 50 minutes [📽️](https://youtu.be/4EB8DrvXbVQ)
+* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, [Devoxx UK 2023](https://www.devoxx.co.uk/talk/?id=3126),30 minutes, [📽️](https://www.youtube.com/watch?v=Jzgqj1vY2k0)
+* 🇵🇱 Krakow, [GeeCON 2023](https://2023.geecon.org/speakers/info.html?id=796), 50 minutes
+* 🇨🇭 Zürich, [VoxxedDays Zürich 2023](https://voxxeddays.com/zurich/schedule/talk/?id=4509), 20 minutes, [📽️](https://www.youtube.com/watch?v=q-Le1dx2-t8)
+* 🇳🇱 Arnhem, [Arnhem JUG February 2023](https://www.meetup.com/arnhemjug/events/290692019/), 30 minutes
+* 🇧🇪 Brussels, [FOSDEM 2023](https://fosdem.org/2023/schedule/event/migrations/), 20 minutes
+* 🇨🇭 Basel, [BaselOne 2022](https://www.baselone.ch/speech.html?id=04AF2172-A549-47BD-8731-79E4CAC3496D), 25 minutes
+* 🇧🇪 Antwerp, [Devoxx Belgium 2022](https://devoxx.be/talk/?id=16776), 30 minutes, [📽️](https://www.youtube.com/watch?v=7fslFKkCkxg)
+* 🇲🇦 Agadir, [Devoxx Morocco 2022](https://devoxx.ma/talk/?id=8815), 25 minutes
+* 🇵🇱 Krakow, [Devoxx Poland 2022](https://devoxx.pl/talk-details/?id=2311), 15 minutes, [📽️](https://www.youtube.com/watch?v=rg1TcaHv-24)
+* 🇱🇺 Luxembourg, [VoxxedDays Luxembourg 2022](https://cfp-voxxed-lux.yajug.org/2022/talk/EIY-8151/Major_migrations_made_easy), 15 minutes, [📽️](https://www.youtube.com/watch?v=6qLe-tZ9Kv0)
+* 🇪🇸 Barcelona, [Spring I/O 2022](https://2022.springio.net/sessions/major-migrations-made-easy), 50 minutes, [📽️](https://www.youtube.com/watch?v=d8xU24x7Jqo)
+* 🇳🇱 Utrecht, [TEQnation 2022](https://teqnation.com/speakers-2022/), 15 minutes
+* 🇫🇷 Paris, [Devoxx France 2022](https://cfp.devoxx.fr/2022/talk/TPL-7294/Major_migrations_made_easy), 15 minutes, [📽️](https://www.youtube.com/watch?v=r_jFBDTPKSc)
 
 ### [Choose your own adventure with Spring Security](https://github.com/timtebeek/spring-security-workshop) (workshop)
-* [JFall 2022](https://jfall.nl/timetable-2022/)
-🇳🇱 Ede,
-🧑‍💻 180 minutes
-* [Devoxx Morocco 2022](https://devoxx.ma/talk/?id=7362)
-🇲🇦 Agadir,
-🧑‍💻 120 minutes
-* [JavaZone 2022](https://2022.javazone.no/#/workshops/ea79977f-0613-4fe2-b24a-320b1ce01a4e)
-🇳🇴 Oslo,
-🧑‍💻 120 minutes
-* [JBCNConf 2022](https://www.jbcnconf.com/2022/infoTalk.html?id=621909084010570ba9b6dd6c)
-🇪🇸 Barcelona,
-🧑‍💻 120 minutes
-* [FortX 2022](https://www.fortx.jdriven.com/)
-🇳🇱 Nieuwegein,
-🧑‍💻 120 minutes
-* [Devoxx Poland 2022](https://devoxx.pl/talk-details/?id=3160)
-🇵🇱 Krakow,
-🧑‍💻 180 minutes
-* [Spring I/O 2022](https://2022.springio.net/sessions/choose-your-own-adventure-with-spring-security-workshop)
-🇪🇸 Barcelona,
-🧑‍💻 120 minutes
+* 🇳🇱 Ede, [JFall 2022](https://jfall.nl/timetable-2022/), 180 minutes 🧑‍💻
+* 🇲🇦 Agadir, [Devoxx Morocco 2022](https://devoxx.ma/talk/?id=7362), 120 minutes 🧑‍💻
+* 🇳🇴 Oslo, [JavaZone 2022](https://2022.javazone.no/#/workshops/ea79977f-0613-4fe2-b24a-320b1ce01a4e), 120 minutes 🧑‍💻
+* 🇪🇸 Barcelona, [JBCNConf 2022](https://www.jbcnconf.com/2022/infoTalk.html?id=621909084010570ba9b6dd6c), 120 minutes 🧑‍💻
+* 🇳🇱 Nieuwegein, [FortX 2022](https://www.fortx.jdriven.com/), 120 minutes 🧑‍💻
+* 🇵🇱 Krakow, [Devoxx Poland 2022](https://devoxx.pl/talk-details/?id=3160), 180 minutes 🧑‍💻
+* 🇪🇸 Barcelona, [Spring I/O 2022](https://2022.springio.net/sessions/choose-your-own-adventure-with-spring-security-workshop), 120 minutes 🧑‍💻
 
 ### [Document your lousily coupled micro service architecture](https://2021.jfall.nl/speakers-2021/)
-* [JFall 2021](https://2021.jfall.nl/speakers-2021/)
-🇳🇱 Ede, [📽️](https://youtu.be/Y5MfzYjTBX8?t=2142) 5 minutes
+* 🇳🇱 Ede, [JFall 2021](https://2021.jfall.nl/speakers-2021/), 5 minutes,
+  [📽️](https://youtu.be/Y5MfzYjTBX8?t=2142)
 
 ### [Getting started with Kafka Streams](https://github.com/jresoort/kafkastreams-workshop) (workshop)
-* [Spring I/O 2018](https://2018.springio.net/speakers/tim-te-beek)
-🇪🇸 Barcelona,
-🧑‍💻 120 minutes
+* 🇪🇸 Barcelona, [Spring I/O 2018](https://2018.springio.net/speakers/tim-te-beek), 120 minutes 🧑‍💻
 
 ## Featured
 
@@ -168,16 +91,11 @@ Here's an overview of recent talks and workshops.
 ### Blog posts
 
 * [Stop breaking CI—annotate PRs with OpenRewrite recipe fixes as your quality gate](https://www.moderne.io/blog/stop-breaking-ci-annotate-prs-with-openrewrite-recipe-fixes-as-quality-gate)
-* [Streamline feature flag management: Automate removal with OpenRewrite & Moderne
-  ](https://www.moderne.io/blog/streamline-feature-flag-management-automate-removal-with-openrewrite-moderne)
-* [Speed your Spring Boot 3.2 migration
-  ](https://www.moderne.io/blog/speed-your-spring-boot-3-0-migration)
-* [Migrating from Hamcrest to AssertJ with OpenRewrite and Moderne
-  ](https://www.moderne.io/blog/migrating-from-hamcrest-to-assertj-with-openrewrite-and-moderne)
-* [Micronaut framework 4.0 release incorporates auto-upgrade with OpenRewrite recipes
-  ](https://www.moderne.io/blog/micronaut-framework-4-0-automated-upgrade-with-openrewrite)
-* [How Axon Framework handles breaking changes through OpenRewrite
-  ](https://www.moderne.io/blog/how-axon-framework-handles-breaking-changes-through-openrewrite) 
+* [Streamline feature flag management: Automate removal with OpenRewrite & Moderne](https://www.moderne.io/blog/streamline-feature-flag-management-automate-removal-with-openrewrite-moderne)
+* [Speed your Spring Boot 3.2 migration](https://www.moderne.io/blog/speed-your-spring-boot-3-0-migration)
+* [Migrating from Hamcrest to AssertJ with OpenRewrite and Moderne](https://www.moderne.io/blog/migrating-from-hamcrest-to-assertj-with-openrewrite-and-moderne)
+* [Micronaut framework 4.0 release incorporates auto-upgrade with OpenRewrite recipes](https://www.moderne.io/blog/micronaut-framework-4-0-automated-upgrade-with-openrewrite)
+* [How Axon Framework handles breaking changes through OpenRewrite](https://www.moderne.io/blog/how-axon-framework-handles-breaking-changes-through-openrewrite) 
 * [JDriven blog posts](https://blog.jdriven.com/author/tim-te-beek/)
 
 ### Mentions

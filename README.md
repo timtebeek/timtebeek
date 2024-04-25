@@ -42,7 +42,7 @@ Here's an overview of recent talks and workshops.
 
 ### [Major migrations made easy](https://sessionize.com/s/timtebeek/major-migrations-made-easy/48781)
 
-* 🇭🇷 Rovinj, [JavaCro 2023](https://2023.javacro.hr/eng/Program/Major-Migrations-Made-Easy), 45 minutes 🧑‍💻
+* 🇭🇷 Rovinj, [JavaCro 2023](https://2023.javacro.hr/eng/Program/Major-Migrations-Made-Easy), 45 minutes
 * 🇪🇸 Barcelona, [DevBCN 2023](https://www.devbcn.com/2023/talk/429442), 50 minutes
 * 🇳🇱 Utrecht, [JSpring 2023](https://jspring.nl/speakers/tim-te-beek/), 45 minutes
 * 🇩🇪 Cologne, [JCON Europe 2023](https://jconeurope2023.sched.com/event/1K3zc), 50 minutes [📽️](https://www.youtube.com/watch?v=2KosvX287cE)

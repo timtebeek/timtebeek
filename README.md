@@ -1,6 +1,8 @@
 Staff software engineer who enjoys working with and contributing to Open Source such as OpenRewrite, Maven, Spring and ArchUnit.
 When not at work you'll find me traveling, bouldering, snowboarding, mountainbiking or at one of many cultural events around my home town or abroad.
 
+[![Employee Spotlight | Meet Tim te Beek](http://img.youtube.com/vi/HDoR7sbx98A/0.jpg)](http://www.youtube.com/watch?v=HDoR7sbx98A "Employee Spotlight | Meet Tim te Beek")
+
 ## Talks & workshops
 
 Occasionally I get to present at conferences & meetups.

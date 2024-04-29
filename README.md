@@ -16,13 +16,13 @@ Here's an overview of recent talks and workshops.
 
 ### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/timtebeek/transforming-code-with-openrewrite-and-refaster/89847) (workshop)
 
-* 🇩🇪 Cologne, [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI), 240 minutes 🧑‍💻
+* 🇩🇪 Cologne, [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI), 240 minutes
 
 ### [Fundamentals of Migration Engineering with OpenRewrite](https://sessionize.com/s/timtebeek/fundamentals-of-migration-engineering-with-openrew/89846) (workshop)
 
-* 🇵🇹 Coimbra, [JNation 2024](https://jnation.pt/), 180 minutes 🧑‍💻
+* 🇵🇹 Coimbra, [JNation 2024](https://jnation.pt/), 180 minutes
   
-* 🇫🇷 Paris, [Devoxx France 2024](https://www.devoxx.fr/schedule/talk/?id=25633), 120 minutes 🧑‍💻
+* 🇫🇷 Paris, [Devoxx France 2024](https://www.devoxx.fr/schedule/talk/?id=25633), 120 minutes
 
 ### [Maintaining Maven at Scale](https://sessionize.com/s/timtebeek/maintaining-maven-at-scale/74075)
 * 🇷🇴 Bucharest, [DevCon Java 2023](https://www.dev-con.ro/speakers/3-Tim+te+Beek), 45 minutes
@@ -34,11 +34,11 @@ Here's an overview of recent talks and workshops.
 ### [Modernize your money-maker](https://sessionize.com/s/timtebeek/modernize-your-money-maker/74076)
 * 🇳🇱 Ede, [JFall 2023](https://jfall.nl/speakers-2023/), 13 minutes [📽️](https://youtu.be/Jgi-n0w8g0U?si=NlXjOcd422vmtTe2)
 
-### [Spring Boot 3 is here: Where are you?](https://docs.moderne.io/user-documentation/workshops/spring-boot-migration-workshop) (workshop)
-* 🇳🇱 Ede, [JFall 2023](https://jfall.nl/speakers-2023/), 120 minutes 🧑‍💻
-* 🇭🇷 Rovinj, [JavaCro 2023](https://2023.javacro.hr/eng/Program/Spring-Boot-3-is-here-where-are-you), 90 minutes 🧑‍💻
-* 🇳🇴 Oslo, [JavaZone 2023](https://2023.javazone.no/program/106f0d9f-3d6b-4131-be6b-36612dd29f97), 120 minutes 🧑‍💻
-* 🇪🇸 Barcelona, [Spring I/O 2023](https://2023.springio.net/sessions/spring-boot-3-is-here-where-are-you-workshop/), 120 minutes 🧑‍💻
+### [Spring Boot 3 is here: Where are you?](https://docs.moderne.io/user-documentation/workshops/migrate-your-own-project) (workshop)
+* 🇳🇱 Ede, [JFall 2023](https://jfall.nl/speakers-2023/), 120 minutes
+* 🇭🇷 Rovinj, [JavaCro 2023](https://2023.javacro.hr/eng/Program/Spring-Boot-3-is-here-where-are-you), 90 minutes
+* 🇳🇴 Oslo, [JavaZone 2023](https://2023.javazone.no/program/106f0d9f-3d6b-4131-be6b-36612dd29f97), 120 minutes
+* 🇪🇸 Barcelona, [Spring I/O 2023](https://2023.springio.net/sessions/spring-boot-3-is-here-where-are-you-workshop/), 120 minutes
 
 ### [Major migrations made easy](https://sessionize.com/s/timtebeek/major-migrations-made-easy/48781)
 
@@ -62,20 +62,20 @@ Here's an overview of recent talks and workshops.
 * 🇫🇷 Paris, [Devoxx France 2022](https://cfp.devoxx.fr/2022/talk/TPL-7294/Major_migrations_made_easy), 15 minutes, [📽️](https://www.youtube.com/watch?v=r_jFBDTPKSc)
 
 ### [Choose your own adventure with Spring Security](https://github.com/timtebeek/spring-security-workshop) (workshop)
-* 🇳🇱 Ede, [JFall 2022](https://jfall.nl/timetable-2022/), 180 minutes 🧑‍💻
-* 🇲🇦 Agadir, [Devoxx Morocco 2022](https://devoxx.ma/talk/?id=7362), 120 minutes 🧑‍💻
-* 🇳🇴 Oslo, [JavaZone 2022](https://2022.javazone.no/#/workshops/ea79977f-0613-4fe2-b24a-320b1ce01a4e), 120 minutes 🧑‍💻
-* 🇪🇸 Barcelona, [JBCNConf 2022](https://www.jbcnconf.com/2022/infoTalk.html?id=621909084010570ba9b6dd6c), 120 minutes 🧑‍💻
-* 🇳🇱 Nieuwegein, [FortX 2022](https://www.fortx.jdriven.com/), 120 minutes 🧑‍💻
-* 🇵🇱 Krakow, [Devoxx Poland 2022](https://devoxx.pl/talk-details/?id=3160), 180 minutes 🧑‍💻
-* 🇪🇸 Barcelona, [Spring I/O 2022](https://2022.springio.net/sessions/choose-your-own-adventure-with-spring-security-workshop), 120 minutes 🧑‍💻
+* 🇳🇱 Ede, [JFall 2022](https://jfall.nl/timetable-2022/), 180 minutes
+* 🇲🇦 Agadir, [Devoxx Morocco 2022](https://devoxx.ma/talk/?id=7362), 120 minutes
+* 🇳🇴 Oslo, [JavaZone 2022](https://2022.javazone.no/#/workshops/ea79977f-0613-4fe2-b24a-320b1ce01a4e), 120 minutes
+* 🇪🇸 Barcelona, [JBCNConf 2022](https://www.jbcnconf.com/2022/infoTalk.html?id=621909084010570ba9b6dd6c), 120 minutes
+* 🇳🇱 Nieuwegein, [FortX 2022](https://www.fortx.jdriven.com/), 120 minutes
+* 🇵🇱 Krakow, [Devoxx Poland 2022](https://devoxx.pl/talk-details/?id=3160), 180 minutes
+* 🇪🇸 Barcelona, [Spring I/O 2022](https://2022.springio.net/sessions/choose-your-own-adventure-with-spring-security-workshop), 120 minutes
 
 ### [Document your lousily coupled micro service architecture](https://2021.jfall.nl/speakers-2021/)
 * 🇳🇱 Ede, [JFall 2021](https://2021.jfall.nl/speakers-2021/), 5 minutes,
   [📽️](https://youtu.be/Y5MfzYjTBX8?t=2142)
 
 ### [Getting started with Kafka Streams](https://github.com/jresoort/kafkastreams-workshop) (workshop)
-* 🇪🇸 Barcelona, [Spring I/O 2018](https://2018.springio.net/speakers/tim-te-beek), 120 minutes 🧑‍💻
+* 🇪🇸 Barcelona, [Spring I/O 2018](https://2018.springio.net/speakers/tim-te-beek), 120 minutes
 
 ## Featured
 

@@ -8,6 +8,9 @@ When not at work you'll find me traveling, bouldering, snowboarding, mountainbik
 Occasionally I get to present at conferences & meetups.
 Here's an overview of recent talks and workshops.
 
+### [From boy scouting to redrawing the landscape](https://sessionize.com/s/timtebeek/from-boy-scouting-to-redrawing-the-landscape/96449)
+* 🇩🇪 Berlin, [WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress/program), 30 minutes
+
 ### [Automated software refactoring with OpenRewrite and Generative AI](https://sessionize.com/s/timtebeek/automated-software-refactoring-with-openrewrite-an/91981)
 
 * 🇪🇸 Barcelona, [Spring I/O 2024](https://2024.springio.net/sessions/automated-software-refactoring-with-openrewrite-and-generative-ai/), 50 minutes

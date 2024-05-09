@@ -49,7 +49,7 @@ Here's an overview of recent talks and workshops.
 
 * 🇭🇷 Rovinj, [JavaCro 2023](https://2023.javacro.hr/eng/Program/Major-Migrations-Made-Easy), 45 minutes
 * 🇪🇸 Barcelona, [DevBCN 2023](https://www.devbcn.com/2023/talk/429442), 50 minutes
-* 🇳🇱 Utrecht, [JSpring 2023](https://jspring.nl/speakers/tim-te-beek/), 45 minutes
+* 🇳🇱 Utrecht, [JSpring 2023](https://jspring.nl/speakers/tim-te-beek/), 45 minutes [📽️](https://www.youtube.com/watch?v=jOFfCAleUI8)
 * 🇩🇪 Cologne, [JCON Europe 2023](https://jconeurope2023.sched.com/event/1K3zc), 50 minutes [📽️](https://www.youtube.com/watch?v=2KosvX287cE)
 * 🇧🇬 Sofia, [jPrime 2023](https://jprime.io/agenda/155), 50 minutes [📽️](https://youtu.be/4EB8DrvXbVQ)
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, [Devoxx UK 2023](https://www.devoxx.co.uk/talk/?id=3126),30 minutes, [📽️](https://www.youtube.com/watch?v=Jzgqj1vY2k0)

@@ -25,7 +25,7 @@ Here's an overview of recent talks and workshops.
 
 ### [Fundamentals of Migration Engineering with OpenRewrite](https://sessionize.com/s/timtebeek/fundamentals-of-migration-engineering-with-openrew/89846) (workshop)
 
-* 🇵🇹 Coimbra, [JNation 2024](https://jnation.pt/), 180 minutes
+* 🇵🇹 Coimbra, [JNation 2024](https://jnation.pt/workshops/), 210 minutes
   
 * 🇫🇷 Paris, [Devoxx France 2024](https://www.devoxx.fr/schedule/talk/?id=25633), 120 minutes
 

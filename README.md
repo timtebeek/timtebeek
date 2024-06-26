@@ -18,7 +18,7 @@ Here's an overview of recent talks and workshops.
 
 ### [Weeding Your Micro Service Landscape](https://sessionize.com/s/timtebeek/weeding-your-micro-service-landscape/83434)
 
-* 🇩🇪 Cologne, [JCON Europe 2024](https://2024.europe.jcon.one/schedule), 45 minutes
+* 🇩🇪 Cologne, [JCON Europe 2024](https://2024.europe.jcon.one/schedule), 45 minutes [📽️](https://www.youtube.com/watch?v=BZdkiLEDx5Q)
 
 ### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/timtebeek/transforming-code-with-openrewrite-and-refaster/89847) (workshop)
 

@@ -86,7 +86,7 @@ Here's an overview of recent talks and workshops.
 ## Featured
 
 ### Live streams
-* Co-host the weekly [OpenRewrite Community Office Hours](https://www.youtube.com/@moderne-auto-remediation/streams).
+* Co-host the [Code Remix Weekly](https://www.youtube.com/@moderne-auto-remediation/streams), for all that's new in OpenRewrite and Moderne.
 * JNation's [catch up to OpenRewrite, Moderne and the Commonhaus Foundation](https://www.youtube.com/watch?v=2ctX7a7WVCk).
 * Gradle's [Build Propulsion Lab at Devoxx France](https://twitter.com/i/broadcasts/1RDxlldrBWdxL).
 * Quarkus Insights #151: [Get ready for Quarkus 3.7+: Auto-migrate to Java 17+ now using OpenRewrite](https://youtube.com/live/BlJk1-SNv9s).

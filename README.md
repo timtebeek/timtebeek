@@ -14,6 +14,9 @@ Here's an overview of recent talks and workshops.
 * 🇧🇪 Antwerp, [Devoxx Belgium 2024](https://devoxx.be/), 180 minutes
 * 🇩🇪 Cologne, [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI), 240 minutes
 
+### [Write your custom OpenRewrite recipes](https://www.meetup.com/OpenValue-Dusseldorf/events/302716287)
+* 🇩🇪 Düsseldorf, [OpenValue Düsseldorf Meetup, August 2024](https://www.meetup.com/OpenValue-Dusseldorf/events/302716287), 45 minutes
+
 ### [From boy scouting to redrawing the landscape](https://sessionize.com/s/timtebeek/from-boy-scouting-to-redrawing-the-landscape/96449)
 * 🇩🇪 Berlin, [WeAreDevelopers World Congress 2024](https://www.wearedevelopers.com/world-congress/program), 30 minutes
 

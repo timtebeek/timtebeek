@@ -14,7 +14,8 @@ Here's an overview of recent talks and workshops.
 * 🇧🇪 Antwerp, [Devoxx Belgium 2024](https://devoxx.be/), 180 minutes
 * 🇩🇪 Cologne, [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI), 240 minutes
 
-### [Write your custom OpenRewrite recipes](https://www.meetup.com/OpenValue-Dusseldorf/events/302716287)
+### [Write your custom OpenRewrite recipes](https://sessionize.com/s/timtebeek/write-your-custom-openrewrite-recipes/105432)
+* 🇩🇪 Oberpfalz (online), [JUG Oberpfalz, November 2024](https://www.meetup.com/jug-oberpfalz/events/296483639/), 50 minutes
 * 🇩🇪 Düsseldorf, [OpenValue Düsseldorf Meetup, August 2024](https://www.meetup.com/OpenValue-Dusseldorf/events/302716287), 45 minutes
 
 ### [From boy scouting to redrawing the landscape](https://sessionize.com/s/timtebeek/from-boy-scouting-to-redrawing-the-landscape/96449)

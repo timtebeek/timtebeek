@@ -7,10 +7,15 @@ When not at work you'll find me traveling, bouldering, snowboarding, mountainbik
 ## Talks & workshops
 
 Occasionally I get to present at conferences & meetups.
-Here's an overview of recent talks and workshops.
+Here's an overview of talks and workshops over the years.
+
+### [Generative AI on millions of lines of code; a recipe for success?](https://sessionize.com/s/timtebeek/generative-ai-on-millions-of-lines-of-code-a-recip/105435)
+
+* 🇳🇱 Ede, [JFall 2024](https://jfall.nl/), 50 minutes
 
 ### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/timtebeek/transforming-code-with-openrewrite-and-refaster/89847) (workshop)
 
+* 🇳🇱 Ede, [JFall 2024](https://jfall.nl/), 240 minutes
 * 🇧🇪 Antwerp, [Devoxx Belgium 2024](https://devoxx.be/), 180 minutes
 * 🇩🇪 Cologne, [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI), 240 minutes
 

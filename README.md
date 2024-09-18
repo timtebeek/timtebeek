@@ -9,12 +9,13 @@ When not at work you'll find me traveling, bouldering, snowboarding, mountainbik
 Occasionally I get to present at conferences & meetups.
 Here's an overview of talks and workshops over the years.
 
-### [Generative AI on millions of lines of code; a recipe for success?](https://sessionize.com/s/timtebeek/generative-ai-on-millions-of-lines-of-code-a-recip/105435)
+### [Analyze, Automate and Scale your Modernization](https://www.oop-konferenz.de/en/program/conference-program)
+* 🇩🇪 Munich, [OOP 2025](https://www.oop-konferenz.de/en/program/conference-program), 150 minutes
 
+### [Generative AI on millions of lines of code; a recipe for success?](https://sessionize.com/s/timtebeek/generative-ai-on-millions-of-lines-of-code-a-recip/105435)
 * 🇳🇱 Ede, [JFall 2024](https://jfall.nl/), 50 minutes
 
 ### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/timtebeek/transforming-code-with-openrewrite-and-refaster/89847) (workshop)
-
 * 🇳🇱 Ede, [JFall 2024](https://jfall.nl/), 240 minutes
 * 🇧🇪 Antwerp, [Devoxx Belgium 2024](https://devoxx.be/), 180 minutes
 * 🇩🇪 Cologne, [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI), 240 minutes
@@ -27,15 +28,12 @@ Here's an overview of talks and workshops over the years.
 * 🇩🇪 Berlin, [WeAreDevelopers World Congress 2024](https://www.wearedevelopers.com/world-congress/program), 30 minutes
 
 ### [Automated software refactoring with OpenRewrite and Generative AI](https://sessionize.com/s/timtebeek/automated-software-refactoring-with-openrewrite-an/91981)
-
 * 🇪🇸 Barcelona, [Spring I/O 2024](https://2024.springio.net/sessions/automated-software-refactoring-with-openrewrite-and-generative-ai/), 50 minutes [📽️](https://youtu.be/KlQZH6WHa2c)
 
 ### [Weeding Your Micro Service Landscape](https://sessionize.com/s/timtebeek/weeding-your-micro-service-landscape/83434)
-
 * 🇩🇪 Cologne, [JCON Europe 2024](https://2024.europe.jcon.one/schedule), 45 minutes [📽️](https://www.youtube.com/watch?v=BZdkiLEDx5Q)
 
 ### [Fundamentals of Migration Engineering with OpenRewrite](https://sessionize.com/s/timtebeek/fundamentals-of-migration-engineering-with-openrew/89846) (workshop)
-
 * 🇵🇹 Coimbra, [JNation 2024](https://jnation.pt/workshops/), 210 minutes
 * 🇪🇸 Barcelona, [Spring I/O 2024](https://2024.springio.net/sessions/fundamentals-of-migration-engineering-with-openrewrite-workshop/), 110 minutes
 * 🇫🇷 Paris, [Devoxx France 2024](https://www.devoxx.fr/schedule/talk/?id=25633), 120 minutes
@@ -57,7 +55,6 @@ Here's an overview of talks and workshops over the years.
 * 🇪🇸 Barcelona, [Spring I/O 2023](https://2023.springio.net/sessions/spring-boot-3-is-here-where-are-you-workshop/), 120 minutes
 
 ### [Major migrations made easy](https://sessionize.com/s/timtebeek/major-migrations-made-easy/48781)
-
 * 🇭🇷 Rovinj, [JavaCro 2023](https://2023.javacro.hr/eng/Program/Major-Migrations-Made-Easy), 45 minutes
 * 🇪🇸 Barcelona, [DevBCN 2023](https://www.devbcn.com/2023/talk/429442), 50 minutes
 * 🇳🇱 Utrecht, [JSpring 2023](https://jspring.nl/speakers/tim-te-beek/), 45 minutes [📽️](https://www.youtube.com/watch?v=jOFfCAleUI8)

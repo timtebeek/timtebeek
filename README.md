@@ -59,7 +59,7 @@ Here's an overview of talks and workshops over the years.
 * 🇪🇸 Barcelona, [Spring I/O 2023](https://2023.springio.net/sessions/spring-boot-3-is-here-where-are-you-workshop/), 120 minutes
 
 ### [Major migrations made easy](https://sessionize.com/s/timtebeek/major-migrations-made-easy/48781)
-* 🇳🇴 Oslo, [javaBin October 2024](https://www.meetup.com/javabin/events/), 60 minutes
+* 🇳🇴 Oslo, [javaBin October 2024](https://www.meetup.com/javabin/events/303885150/), 60 minutes
 * 🇭🇷 Rovinj, [JavaCro 2023](https://2023.javacro.hr/eng/Program/Major-Migrations-Made-Easy), 45 minutes
 * 🇪🇸 Barcelona, [DevBCN 2023](https://www.devbcn.com/2023/talk/429442), 50 minutes
 * 🇳🇱 Utrecht, [JSpring 2023](https://jspring.nl/speakers/tim-te-beek/), 45 minutes [📽️](https://www.youtube.com/watch?v=jOFfCAleUI8)

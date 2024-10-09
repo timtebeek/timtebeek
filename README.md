@@ -25,8 +25,8 @@ Here's an overview of talks and workshops over the years.
 * 🇳🇱 Groningen, JUG Noord October 2024, 50 minutes
 * 🇩🇪 Düsseldorf, [OpenValue Düsseldorf Meetup, August 2024](https://www.meetup.com/OpenValue-Dusseldorf/events/302716287), 45 minutes
 
-### [OpenRewrite: à la carte](https://www.meetup.com/belgian-java-user-group/events/)
-* 🇧🇪 Grimbergen, [Belgian Java User Group October 2024](https://www.meetup.com/belgian-java-user-group/events), 60 minutes
+### [OpenRewrite: à la carte](https://www.meetup.com/belgian-java-user-group/events/303888738/)
+* 🇧🇪 Grimbergen, [Belgian Java User Group October 2024](https://www.meetup.com/belgian-java-user-group/events/303888738/), 60 minutes
 
 ### [From boy scouting to redrawing the landscape](https://sessionize.com/s/timtebeek/from-boy-scouting-to-redrawing-the-landscape/96449)
 * 🇩🇪 Berlin, [WeAreDevelopers World Congress 2024](https://www.wearedevelopers.com/world-congress/program), 30 minutes

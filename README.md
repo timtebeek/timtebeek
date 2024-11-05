@@ -9,11 +9,12 @@ When not at work you'll find me traveling, bouldering, snowboarding, mountainbik
 Occasionally I get to present at conferences & meetups.
 Here's an overview of talks and workshops over the years.
 
+### [Generative AI on millions of lines of code; a recipe for success?](https://sessionize.com/s/timtebeek/generative-ai-on-millions-of-lines-of-code-a-recip/105435)
+* 🇩🇪 Nürburg, [JavaLand 2025](https://javaland.ey), 40 minutes
+* 🇳🇱 Ede, [JFall 2024](https://jfall.nl/), 50 minutes
+
 ### [Analyze, Automate and Scale your Modernization](https://www.oop-konferenz.de/en/program/conference-program)
 * 🇩🇪 Munich, [OOP 2025](https://www.oop-konferenz.de/en/program/conference-program), 150 minutes
-
-### [Generative AI on millions of lines of code; a recipe for success?](https://sessionize.com/s/timtebeek/generative-ai-on-millions-of-lines-of-code-a-recip/105435)
-* 🇳🇱 Ede, [JFall 2024](https://jfall.nl/), 50 minutes
 
 ### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/timtebeek/transforming-code-with-openrewrite-and-refaster/89847) (workshop)
 * 🇳🇱 Ede, [JFall 2024](https://jfall.nl/), 240 minutes

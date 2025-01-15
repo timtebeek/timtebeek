@@ -13,6 +13,9 @@ Here's an overview of talks and workshops over the years.
 * 🇩🇪 Nürburg, [JavaLand 2025](https://meine.doag.org/events/javaland/2025/agenda/#agendaId.5265), 40 minutes
 * 🇳🇱 Ede, [JFall 2024](https://jfall.nl/timetable/), 50 minutes [📽️](https://www.youtube.com/watch?v=ADXoXjkmJj0)
 
+### [Ask me anything on OpenRewrite]
+* 🇳🇱 's Hertogenbosch, [mini.CONF Episode X](https://miniconf.io/episodes/episode-x/), 15 minutes
+
 ### [Analyze, Automate and Scale your Modernization](https://www.oop-konferenz.de/en/program/conference-program)
 * 🇩🇪 Munich, [OOP 2025](https://www.oop-konferenz.de/en/program/conference-program), 150 minutes
 
@@ -22,6 +25,7 @@ Here's an overview of talks and workshops over the years.
 * 🇩🇪 Cologne, [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI), 240 minutes
 
 ### [Write your custom OpenRewrite recipes](https://sessionize.com/s/timtebeek/write-your-custom-openrewrite-recipes/105432)
+* 🇩🇪 Köln (online), [Softwerkskammer Köln, February 2024](https://www.meetup.com/de-DE/softwerkskammer-koln/events/305544025/), 60 minutes
 * 🇩🇪 Oberpfalz (online), [JUG Oberpfalz, November 2024](https://www.meetup.com/jug-oberpfalz/events/296483639/), 50 minutes
 * 🇳🇱 Groningen, [JUG Noord October 2024](https://www.meetup.com/jug-noord/events/301995703), 50 minutes
 * 🇩🇪 Düsseldorf, [OpenValue Düsseldorf Meetup, August 2024](https://www.meetup.com/OpenValue-Dusseldorf/events/302716287), 45 minutes

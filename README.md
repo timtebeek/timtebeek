@@ -16,9 +16,6 @@ Here's an overview of talks and workshops over the years.
 ### [Ask me anything on OpenRewrite](https://programme.miniconf.io/sessions/episode-x/2025-01-05/)
 * 🇳🇱 's Hertogenbosch, [mini.CONF Episode X](https://programme.miniconf.io/episode-x/), 15 minutes
 
-### [Analyze, Automate and Scale your Modernization](https://www.oop-konferenz.de/en/program/conference-program)
-* 🇩🇪 Munich, [OOP 2025](https://www.oop-konferenz.de/en/program/conference-program), 150 minutes
-
 ### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/timtebeek/transforming-code-with-openrewrite-and-refaster/89847) (workshop)
 * 🇳🇱 Ede, [JFall 2024](https://jfall.nl/timetable/), 240 minutes
 * 🇧🇪 Antwerp, [Devoxx Belgium 2024](https://devoxx.be/), 180 minutes

@@ -10,7 +10,7 @@ Occasionally I get to present at conferences & meetups.
 Here's an overview of talks and workshops over the years.
 
 ### [Fundamentals of Migration Engineering with OpenRewrite](https://sessionize.com/s/timtebeek/fundamentals-of-migration-engineering-with-openrew/89846) (workshop)
-* 🇺🇸 Miami, [Code Remix Summit 2024](https://coderemix.ai/session?id=51866), all day
+* 🇺🇸 Miami, [Code Remix Summit 2025](https://coderemix.ai/session?id=51866), all day
 * 🇵🇹 Coimbra, [JNation 2024](https://jnation.pt/workshops/), 210 minutes
 * 🇪🇸 Barcelona, [Spring I/O 2024](https://2024.springio.net/sessions/fundamentals-of-migration-engineering-with-openrewrite-workshop/), 110 minutes
 * 🇫🇷 Paris, [Devoxx France 2024](https://www.devoxx.fr/schedule/talk/?id=25633), 120 minutes

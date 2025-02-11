@@ -9,6 +9,12 @@ When not at work you'll find me traveling, bouldering, snowboarding, mountainbik
 Occasionally I get to present at conferences & meetups.
 Here's an overview of talks and workshops over the years.
 
+### [Fundamentals of Migration Engineering with OpenRewrite](https://sessionize.com/s/timtebeek/fundamentals-of-migration-engineering-with-openrew/89846) (workshop)
+* 🇺🇸 Miami, [Code Remix Summit 2024](https://coderemix.ai/session?id=51866), all day
+* 🇵🇹 Coimbra, [JNation 2024](https://jnation.pt/workshops/), 210 minutes
+* 🇪🇸 Barcelona, [Spring I/O 2024](https://2024.springio.net/sessions/fundamentals-of-migration-engineering-with-openrewrite-workshop/), 110 minutes
+* 🇫🇷 Paris, [Devoxx France 2024](https://www.devoxx.fr/schedule/talk/?id=25633), 120 minutes
+
 ### [Generative AI on millions of lines of code; a recipe for success?](https://sessionize.com/s/timtebeek/generative-ai-on-millions-of-lines-of-code-a-recip/105435)
 * 🇩🇪 Nürburg, [JavaLand 2025](https://meine.doag.org/events/javaland/2025/agenda/#agendaId.5265), 40 minutes
 * 🇳🇱 Ede, [JFall 2024](https://jfall.nl/timetable/), 50 minutes [📽️](https://www.youtube.com/watch?v=ADXoXjkmJj0)
@@ -38,11 +44,6 @@ Here's an overview of talks and workshops over the years.
 
 ### [Weeding Your Micro Service Landscape](https://sessionize.com/s/timtebeek/weeding-your-micro-service-landscape/83434)
 * 🇩🇪 Cologne, [JCON Europe 2024](https://2024.europe.jcon.one/schedule), 45 minutes [📽️](https://www.youtube.com/watch?v=BZdkiLEDx5Q)
-
-### [Fundamentals of Migration Engineering with OpenRewrite](https://sessionize.com/s/timtebeek/fundamentals-of-migration-engineering-with-openrew/89846) (workshop)
-* 🇵🇹 Coimbra, [JNation 2024](https://jnation.pt/workshops/), 210 minutes
-* 🇪🇸 Barcelona, [Spring I/O 2024](https://2024.springio.net/sessions/fundamentals-of-migration-engineering-with-openrewrite-workshop/), 110 minutes
-* 🇫🇷 Paris, [Devoxx France 2024](https://www.devoxx.fr/schedule/talk/?id=25633), 120 minutes
 
 ### [Maintaining Maven at Scale](https://sessionize.com/s/timtebeek/maintaining-maven-at-scale/74075)
 * 🇷🇴 Bucharest, [DevCon Java 2023](https://www.dev-con.ro/speakers/3-Tim+te+Beek), 45 minutes

@@ -28,7 +28,7 @@ Here's an overview of talks and workshops over the years.
 * 🇩🇪 Cologne, [JCON Europe 2024](https://jconeurope2024.sched.com/event/1Z2tI), 240 minutes
 
 ### [Write your custom OpenRewrite recipes](https://sessionize.com/s/timtebeek/write-your-custom-openrewrite-recipes/105432)
-* 🇩🇪 Köln (online), [Softwerkskammer Köln, February 2024](https://www.meetup.com/de-DE/softwerkskammer-koln/events/305544025/), 60 minutes [📽️](https://www.youtube.com/watch?v=pBcwd9DiSMk)
+* 🇩🇪 Köln (online), [Softwerkskammer Köln, February 2024](https://www.meetup.com/de-DE/softwerkskammer-koln/events/305544025/), 100 minutes [📽️](https://www.youtube.com/watch?v=pBcwd9DiSMk)
 * 🇩🇪 Oberpfalz (online), [JUG Oberpfalz, November 2024](https://www.meetup.com/jug-oberpfalz/events/296483639/), 50 minutes
 * 🇳🇱 Groningen, [JUG Noord October 2024](https://www.meetup.com/jug-noord/events/301995703), 50 minutes
 * 🇩🇪 Düsseldorf, [OpenValue Düsseldorf Meetup, August 2024](https://www.meetup.com/OpenValue-Dusseldorf/events/302716287), 45 minutes

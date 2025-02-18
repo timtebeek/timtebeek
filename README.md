@@ -20,7 +20,7 @@ Here's an overview of talks and workshops over the years.
 * 🇳🇱 Ede, [JFall 2024](https://jfall.nl/timetable/), 50 minutes [📽️](https://www.youtube.com/watch?v=ADXoXjkmJj0)
 
 ### [Ask me anything on OpenRewrite](https://programme.miniconf.io/sessions/episode-x/2025-01-05/)
-* 🇳🇱 's Hertogenbosch, [mini.CONF Episode X](https://programme.miniconf.io/episode-x/), 15 minutes
+* 🇳🇱 's Hertogenbosch, [mini.CONF Episode X 2025](https://programme.miniconf.io/episode-x/), 15 minutes
 
 ### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/timtebeek/transforming-code-with-openrewrite-and-refaster/89847) (workshop)
 * 🇳🇱 Ede, [JFall 2024](https://jfall.nl/timetable/), 240 minutes

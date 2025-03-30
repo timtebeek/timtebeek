@@ -9,6 +9,9 @@ When not at work you'll find me traveling, bouldering, snowboarding, mountainbik
 Occasionally I get to present at conferences & meetups.
 Here's an overview of talks and workshops over the years.
 
+### [Better Assertions with AssertJ](https://sessionize.com/s/timtebeek/better-assertions-with-assertj/133842)
+* 🇪🇸 Barcelona, [Spring I/O 2025](https://2025.springio.net/sessions/better-assertions-with-assertj/), 50 minutes
+
 ### [Fundamentals of Migration Engineering with OpenRewrite](https://sessionize.com/s/timtebeek/fundamentals-of-migration-engineering-with-openrew/89846) (workshop)
 * 🇺🇸 Miami, [Code Remix Summit 2025](https://coderemix.ai/session?id=51866), all day
 * 🇵🇹 Coimbra, [JNation 2024](https://jnation.pt/workshops/), 210 minutes
@@ -21,6 +24,9 @@ Here's an overview of talks and workshops over the years.
 
 ### [Ask me anything on OpenRewrite](https://programme.miniconf.io/sessions/episode-x/2025-01-05/)
 * 🇳🇱 's Hertogenbosch, [mini.CONF Episode X 2025](https://programme.miniconf.io/episode-x/), 15 minutes
+
+### [Migration Engineering with OpenRewrite: The Recipe for Success](https://devnexus.com/presentations/migration-engineering-with-openrewrite-the-recipe-for-success)
+* 🇺🇸 Atlanta, [DevNexus 2025](https://devnexus.com/presentations/migration-engineering-with-openrewrite-the-recipe-for-success), all day
 
 ### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/timtebeek/transforming-code-with-openrewrite-and-refaster/89847) (workshop)
 * 🇳🇱 Ede, [JFall 2024](https://jfall.nl/timetable/), 240 minutes

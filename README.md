@@ -9,6 +9,9 @@ When not at work you'll find me traveling, bouldering, snowboarding, mountainbik
 Occasionally I get to present at conferences & meetups.
 Here's an overview of talks and workshops over the years.
 
+### [Breaking your testing habits](https://devoxx.be) (workshop)
+* 🇧🇪 Antwerp, [Devoxx Belgium 2025](https://devoxx.be/), 120 minutes
+
 ### [Trusting AI to Modernize Software at Scale](https://sessionize.com/s/timtebeek/trusting-ai-to-modernize-software-at-scale/134366)
 * 🇨🇭 Basel, [BaselOne 2025](https://baselone.org/en/baselone-home/#schedule), 45 minutes
 * 🇱🇺 Luxembourg [VoxxedDays Luxembourg 2025](https://mobile.devoxx.com/events/voxxedlu2025/talks/3593/details), 50 minutes [📽️](https://www.youtube.com/watch?v=Hxcwu7cpY4k)

@@ -15,7 +15,7 @@ Here's an overview of talks and workshops over the years.
 ### [Trusting AI to Modernize Software at Scale](https://sessionize.com/s/timtebeek/trusting-ai-to-modernize-software-at-scale/134366)
 * 🇨🇭 Basel, [BaselOne 2025](https://baselone.org/en/baselone-home/#schedule), 45 minutes
 * 🇱🇺 Luxembourg [VoxxedDays Luxembourg 2025](https://mobile.devoxx.com/events/voxxedlu2025/talks/3593/details), 50 minutes [📽️](https://www.youtube.com/watch?v=Hxcwu7cpY4k)
-* 🇸🇪 Stockholm, [AIfokus 2025](https://www.jfokus.se/ai-fokus/talks/2557), 50 minutes
+* 🇸🇪 Stockholm, [AIfokus 2025](https://www.jfokus.se/ai-fokus/talks/2557), 50 minutes [📽️](https://youtu.be/ezkp0EI7AFo?si=2WHNBgy7p7FNbFdG)
 * 🇳🇱 Utrecht, [Full Stack Conference 2025](https://www.fullstackconference.nl/), 50 minutes
 
 ### [Better Assertions with AssertJ](https://sessionize.com/s/timtebeek/better-assertions-with-assertj/133842)

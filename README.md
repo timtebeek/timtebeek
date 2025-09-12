@@ -19,7 +19,7 @@ Here's an overview of talks and workshops over the years.
 * 🇳🇱 Utrecht, [Full Stack Conference 2025](https://www.fullstackconference.nl/), 50 minutes
 
 ### [Better Assertions with AssertJ](https://sessionize.com/s/timtebeek/better-assertions-with-assertj/133842)
-* 🇪🇸 Barcelona, [Spring I/O 2025](https://2025.springio.net/sessions/better-assertions-with-assertj/), 50 minutes
+* 🇪🇸 Barcelona, [Spring I/O 2025](https://2025.springio.net/sessions/better-assertions-with-assertj/), 50 minutes [📽️](https://youtu.be/k7sXn1v4fYc)
 
 ### [Fundamentals of Migration Engineering with OpenRewrite](https://sessionize.com/s/timtebeek/fundamentals-of-migration-engineering-with-openrew/89846) (workshop)
 * 🇺🇸 Miami, [Code Remix Summit 2025](https://coderemix.ai/session?id=51866), all day

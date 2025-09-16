@@ -10,6 +10,7 @@ Occasionally I get to present at conferences & meetups.
 Here's an overview of talks and workshops over the years.
 
 ### [Breaking your testing habits](https://m.devoxx.com/events/dvbe25/talks/6235/breaking-your-testing-habits) (workshop)
+* 🇳🇱 Ede, [JFall 2025](https://jfall.nl/timetable/), 240 minutes
 * 🇧🇪 Antwerp, [Devoxx Belgium 2025](https://m.devoxx.com/events/dvbe25/talks/6235/breaking-your-testing-habits), 120 minutes
 
 ### [Trusting AI to Modernize Software at Scale](https://sessionize.com/s/timtebeek/trusting-ai-to-modernize-software-at-scale/134366)

@@ -72,7 +72,7 @@ Here's an overview of talks and workshops over the years.
 ### [Modernize your money-maker](https://sessionize.com/s/timtebeek/modernize-your-money-maker/74076)
 * 🇳🇱 Ede, [JFall 2023](https://jfall.nl/speakers-2023/), 13 minutes [📽️](https://youtu.be/Jgi-n0w8g0U?si=NlXjOcd422vmtTe2)
 
-### [Spring Boot 3 is here: Where are you?](https://docs.moderne.io/user-documentation/workshops/migrate-your-own-project) (workshop)
+### [Spring Boot 3 is here: Where are you?](https://2023.springio.net/sessions/spring-boot-3-is-here-where-are-you-workshop/) (workshop)
 * 🇳🇱 Ede, [JFall 2023](https://jfall.nl/speakers-2023/), 120 minutes
 * 🇭🇷 Rovinj, [JavaCro 2023](https://2023.javacro.hr/eng/Program/Spring-Boot-3-is-here-where-are-you), 90 minutes
 * 🇳🇴 Oslo, [JavaZone 2023](https://2023.javazone.no/program/106f0d9f-3d6b-4131-be6b-36612dd29f97), 120 minutes

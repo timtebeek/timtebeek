@@ -9,7 +9,7 @@ When not at work you'll find me traveling, bouldering, snowboarding, mountainbik
 Occasionally I get to present at conferences & meetups.
 Here's an overview of talks and workshops over the years.
 
-### [Break your testing habits](https://m.devoxx.com/events/dvbe25/talks/6235/breaking-your-testing-habits) (workshop)
+### [Break your testing habits](https://openrewrite.github.io/break-your-testing-habits/) (workshop)
 * 🇸🇪 Stockholm, [JFokus 2026](https://www.jfokus.se/talks.html), 240 minutes
 * 🇳🇱 Ede, [JFall 2025](https://jfall.nl/timetable/), 240 minutes
 * 🇧🇪 Antwerp, [Devoxx Belgium 2025](https://m.devoxx.com/events/dvbe25/talks/6235/breaking-your-testing-habits), 120 minutes

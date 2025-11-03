@@ -22,6 +22,7 @@ Here's an overview of talks and workshops over the years.
 
 ### [Better Assertions with AssertJ](https://sessionize.com/s/timtebeek/better-assertions-with-assertj/133842)
 * 🇪🇸 Barcelona, [Spring I/O 2025](https://2025.springio.net/sessions/better-assertions-with-assertj/), 50 minutes [📽️](https://youtu.be/k7sXn1v4fYc)
+* 🇳🇱 Leeuwarden, [JUG Noord November 2025](https://www.meetup.com/jug-noord/events/311167534), 50 minutes
 
 ### [Fundamentals of Migration Engineering with OpenRewrite](https://sessionize.com/s/timtebeek/fundamentals-of-migration-engineering-with-openrew/89846) (workshop)
 * 🇺🇸 Miami, [Code Remix Summit 2025](https://coderemix.ai/session?id=51866), all day

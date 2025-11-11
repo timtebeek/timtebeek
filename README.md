@@ -9,6 +9,11 @@ When not at work you'll find me traveling, bouldering, snowboarding, mountainbik
 Occasionally I get to present at conferences & meetups.
 Here's an overview of talks and workshops over the years.
 
+### [Migration Engineering with OpenRewrite: The Recipe for Success](https://devnexus.com/presentations/migration-engineering-with-openrewrite-the-recipe-for-success)
+* 🇺🇸 Atlanta, [DevNexus 2026](https://devnexus.com/events/migration-engineering-with-openrewrite-the-recipe-for-success), all day
+* 🇳🇱 Utrecht, [CodeLab.jug 2025](https://www.meetup.com/codelabjug/events/311943530/), 180 minutes
+* 🇺🇸 Atlanta, [DevNexus 2025](https://devnexus.com/presentations/migration-engineering-with-openrewrite-the-recipe-for-success), all day
+
 ### [Break your testing habits](https://openrewrite.github.io/break-your-testing-habits/) (workshop)
 * 🇸🇪 Stockholm, [JFokus 2026](https://www.jfokus.se/talks.html), 240 minutes
 * 🇳🇱 Ede, [JFall 2025](https://jfall.nl/timetable/), 240 minutes
@@ -36,9 +41,6 @@ Here's an overview of talks and workshops over the years.
 
 ### [Ask me anything on OpenRewrite](https://programme.miniconf.io/sessions/episode-x/2025-01-05/)
 * 🇳🇱 's Hertogenbosch, [mini.CONF Episode X 2025](https://programme.miniconf.io/episode-x/), 15 minutes
-
-### [Migration Engineering with OpenRewrite: The Recipe for Success](https://devnexus.com/presentations/migration-engineering-with-openrewrite-the-recipe-for-success)
-* 🇺🇸 Atlanta, [DevNexus 2025](https://devnexus.com/presentations/migration-engineering-with-openrewrite-the-recipe-for-success), all day
 
 ### [Transforming Code with OpenRewrite and Refaster](https://sessionize.com/s/timtebeek/transforming-code-with-openrewrite-and-refaster/89847) (workshop)
 * 🇳🇱 Ede, [JFall 2024](https://jfall.nl/timetable/), 240 minutes

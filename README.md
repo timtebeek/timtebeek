@@ -20,6 +20,7 @@ Here's an overview of talks and workshops over the years.
 * 🇧🇪 Antwerp, [Devoxx Belgium 2025](https://m.devoxx.com/events/dvbe25/talks/6235/breaking-your-testing-habits), 120 minutes
 
 ### [Trusting AI to Modernize Software at Scale](https://sessionize.com/s/timtebeek/trusting-ai-to-modernize-software-at-scale/134366)
+* 🇳🇱 Amsterdam, [ML Ops Community x Uber 2025](https://www.meetup.com/nl-nl/uber-tech-events-amsterdam/events/311899658/), 30 minutes
 * 🇨🇭 Basel, [BaselOne 2025](https://baselone.org/en/baselone-home/#schedule), 45 minutes
 * 🇱🇺 Luxembourg [VoxxedDays Luxembourg 2025](https://mobile.devoxx.com/events/voxxedlu2025/talks/3593/details), 50 minutes [📽️](https://www.youtube.com/watch?v=Hxcwu7cpY4k)
 * 🇸🇪 Stockholm, [AIfokus 2025](https://www.jfokus.se/ai-fokus/talks/2557), 50 minutes [📽️](https://youtu.be/ezkp0EI7AFo?si=2WHNBgy7p7FNbFdG)

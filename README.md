@@ -9,7 +9,7 @@ When not at work you'll find me traveling, bouldering, snowboarding, mountainbik
 Occasionally I get to present at conferences & meetups.
 Here's an overview of talks and workshops over the years.
 
-### [Migration Engineering with OpenRewrite: The Recipe for Success](https://devnexus.com/presentations/migration-engineering-with-openrewrite-the-recipe-for-success)
+### [Migration Engineering with OpenRewrite: The Recipe for Success](https://openrewrite.github.io/migration-engineering-with-openrewrite/) (workshop)
 * 🇺🇸 Atlanta, [DevNexus 2026](https://devnexus.com/events/migration-engineering-with-openrewrite-the-recipe-for-success), all day
 * 🇳🇱 Utrecht, [CodeLab.jug 2025](https://www.meetup.com/codelabjug/events/311943530/), 180 minutes
 * 🇺🇸 Atlanta, [DevNexus 2025](https://devnexus.com/presentations/migration-engineering-with-openrewrite-the-recipe-for-success), all day

@@ -15,9 +15,15 @@ Here's an overview of talks and workshops over the years.
 * 🇺🇸 Atlanta, [DevNexus 2025](https://devnexus.com/presentations/migration-engineering-with-openrewrite-the-recipe-for-success), all day
 
 ### [Break your testing habits](https://openrewrite.github.io/break-your-testing-habits/) (workshop)
+* 🇩🇪 Cologne, [JCON Europe 2026](https://schedule.jcon.one/2026), 120 minutes
 * 🇸🇪 Stockholm, [JFokus 2026](https://www.jfokus.se/talks.html), 240 minutes
 * 🇳🇱 Ede, [JFall 2025](https://jfall.nl/timetable/), 240 minutes
 * 🇧🇪 Antwerp, [Devoxx Belgium 2025](https://m.devoxx.com/events/dvbe25/talks/6235/breaking-your-testing-habits), 120 minutes
+
+### [Better Assertions with AssertJ](https://sessionize.com/s/timtebeek/better-assertions-with-assertj/133842)
+* 🇩🇪 Cologne, [JCON Europe 2026](https://schedule.jcon.one/2026), 45 minutes
+* 🇳🇱 Leeuwarden, [JUG Noord November 2025](https://www.meetup.com/jug-noord/events/311167534), 50 minutes
+* 🇪🇸 Barcelona, [Spring I/O 2025](https://2025.springio.net/sessions/better-assertions-with-assertj/), 50 minutes [📽️](https://youtu.be/k7sXn1v4fYc)
 
 ### [Trusting AI to Modernize Software at Scale](https://sessionize.com/s/timtebeek/trusting-ai-to-modernize-software-at-scale/134366)
 * 🇳🇱 Amsterdam, [ML Ops Community x Uber 2025](https://www.meetup.com/nl-nl/uber-tech-events-amsterdam/events/311899658/), 30 minutes
@@ -25,10 +31,6 @@ Here's an overview of talks and workshops over the years.
 * 🇱🇺 Luxembourg [VoxxedDays Luxembourg 2025](https://mobile.devoxx.com/events/voxxedlu2025/talks/3593/details), 50 minutes [📽️](https://www.youtube.com/watch?v=Hxcwu7cpY4k)
 * 🇸🇪 Stockholm, [AIfokus 2025](https://www.jfokus.se/ai-fokus/talks/2557), 50 minutes [📽️](https://youtu.be/ezkp0EI7AFo?si=2WHNBgy7p7FNbFdG)
 * 🇳🇱 Utrecht, [Full Stack Conference 2025](https://www.fullstackconference.nl/), 50 minutes
-
-### [Better Assertions with AssertJ](https://sessionize.com/s/timtebeek/better-assertions-with-assertj/133842)
-* 🇪🇸 Barcelona, [Spring I/O 2025](https://2025.springio.net/sessions/better-assertions-with-assertj/), 50 minutes [📽️](https://youtu.be/k7sXn1v4fYc)
-* 🇳🇱 Leeuwarden, [JUG Noord November 2025](https://www.meetup.com/jug-noord/events/311167534), 50 minutes
 
 ### [Fundamentals of Migration Engineering with OpenRewrite](https://sessionize.com/s/timtebeek/fundamentals-of-migration-engineering-with-openrew/89846) (workshop)
 * 🇺🇸 Miami, [Code Remix Summit 2025](https://coderemix.ai/session?id=51866), all day

@@ -9,6 +9,9 @@ When not at work you'll find me traveling, bouldering, snowboarding, mountainbik
 Occasionally I get to present at conferences & meetups.
 Here's an overview of talks and workshops over the years.
 
+### [Deterministic modernization in an age of AI](https://www.devoxx.co.uk/talk/?id=21769)
+* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, [Devoxx UK 2026](https://www.devoxx.co.uk/talk/?id=21769),50 minutes
+
 ### [Migration Engineering with OpenRewrite: The Recipe for Success](https://openrewrite.github.io/migration-engineering-with-openrewrite/) (workshop)
 * 🇺🇸 Atlanta, [DevNexus 2026](https://devnexus.com/events/migration-engineering-with-openrewrite-the-recipe-for-success), all day
 * 🇳🇱 Utrecht, [CodeLab.jug 2025](https://www.meetup.com/codelabjug/events/311943530/), 180 minutes

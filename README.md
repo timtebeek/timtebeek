@@ -10,7 +10,11 @@ Occasionally I get to present at conferences & meetups.
 Here's an overview of talks and workshops over the years.
 
 ### [Deterministic modernization in an age of AI](https://www.devoxx.co.uk/talk/?id=21769)
-* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, [Devoxx UK 2026](https://www.devoxx.co.uk/talk/?id=21769),50 minutes
+* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, [Devoxx UK 2026](https://www.devoxx.co.uk/talk/?id=21769), 50 minutes
+* 🇫🇷 Paris, [Devoxx France 2026](https://www.devoxx.fr/), 45 minutes
+ 
+### [Prepare Your Next Spring Boot Migration](https://www.devoxx.co.uk/talk/?id=20591)
+* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, [Devoxx UK 2026](https://www.devoxx.co.uk/talk/?id=20591), 90 minutes
 
 ### [Migration Engineering with OpenRewrite: The Recipe for Success](https://openrewrite.github.io/migration-engineering-with-openrewrite/) (workshop)
 * 🇺🇸 Atlanta, [DevNexus 2026](https://devnexus.com/events/migration-engineering-with-openrewrite-the-recipe-for-success), all day

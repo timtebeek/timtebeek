@@ -15,11 +15,7 @@ Here's an overview of talks and workshops over the years.
  
 ### [Prepare Your Next Spring Boot Migration](https://www.devoxx.co.uk/talk/?id=20591)
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, [Devoxx UK 2026](https://www.devoxx.co.uk/talk/?id=20591), 90 minutes
-
-### [Migration Engineering with OpenRewrite: The Recipe for Success](https://openrewrite.github.io/migration-engineering-with-openrewrite/) (workshop)
-* 🇺🇸 Atlanta, [DevNexus 2026](https://devnexus.com/events/migration-engineering-with-openrewrite-the-recipe-for-success), all day
-* 🇳🇱 Utrecht, [CodeLab.jug 2025](https://www.meetup.com/codelabjug/events/311943530/), 180 minutes
-* 🇺🇸 Atlanta, [DevNexus 2025](https://devnexus.com/presentations/migration-engineering-with-openrewrite-the-recipe-for-success), all day
+* 🇪🇸 Barcelona, [Spring I/O 2026](https://2026.springio.net/sessions/), 180 minutes
 
 ### [Break your testing habits](https://openrewrite.github.io/break-your-testing-habits/) (workshop)
 * 🇩🇪 Cologne, [JCON Europe 2026](https://schedule.jcon.one/2026), 120 minutes
@@ -29,8 +25,13 @@ Here's an overview of talks and workshops over the years.
 
 ### [Better Assertions with AssertJ](https://sessionize.com/s/timtebeek/better-assertions-with-assertj/133842)
 * 🇩🇪 Cologne, [JCON Europe 2026](https://schedule.jcon.one/2026), 45 minutes
+* 🇺🇸 Atlanta, [DevNexus 2026](https://devnexus.com/events/better-assertions-with-assertj), 50 minutes
 * 🇳🇱 Leeuwarden, [JUG Noord November 2025](https://www.meetup.com/jug-noord/events/311167534), 50 minutes
 * 🇪🇸 Barcelona, [Spring I/O 2025](https://2025.springio.net/sessions/better-assertions-with-assertj/), 50 minutes [📽️](https://youtu.be/k7sXn1v4fYc)
+
+### [Migration Engineering with OpenRewrite: The Recipe for Success](https://openrewrite.github.io/migration-engineering-with-openrewrite/) (workshop)
+* 🇳🇱 Utrecht, [CodeLab.jug 2025](https://www.meetup.com/codelabjug/events/311943530/), 180 minutes
+* 🇺🇸 Atlanta, [DevNexus 2025](https://devnexus.com/presentations/migration-engineering-with-openrewrite-the-recipe-for-success), all day
 
 ### [Trusting AI to Modernize Software at Scale](https://sessionize.com/s/timtebeek/trusting-ai-to-modernize-software-at-scale/134366)
 * 🇳🇱 Amsterdam, [ML Ops Community x Uber 2025](https://www.meetup.com/nl-nl/uber-tech-events-amsterdam/events/311899658/), 30 minutes

@@ -24,6 +24,7 @@ Here's an overview of talks and workshops over the years.
 * 🇧🇪 Antwerp, [Devoxx Belgium 2025](https://m.devoxx.com/events/dvbe25/talks/6235/breaking-your-testing-habits), 120 minutes
 
 ### [Better Assertions with AssertJ](https://sessionize.com/s/timtebeek/better-assertions-with-assertj/133842)
+* 🇳🇱 Arnhem, [Arnhem JUG April 2026](https://www.meetup.com/arnhemjug/events/314089987), 60 minutes
 * 🇩🇪 Cologne, [JCON Europe 2026](https://schedule.jcon.one/2026), 45 minutes
 * 🇺🇸 Atlanta, [DevNexus 2026](https://devnexus.com/events/better-assertions-with-assertj), 50 minutes
 * 🇳🇱 Leeuwarden, [JUG Noord November 2025](https://www.meetup.com/jug-noord/events/311167534), 50 minutes

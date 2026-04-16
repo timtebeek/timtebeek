@@ -156,11 +156,3 @@ Here's an overview of talks and workshops over the years — 75+ appearances acr
 * [Micronaut framework 4.0 release incorporates auto-upgrade with OpenRewrite recipes](https://www.moderne.io/blog/micronaut-framework-4-0-automated-upgrade-with-openrewrite)
 * [How Axon Framework handles breaking changes through OpenRewrite](https://www.moderne.io/blog/how-axon-framework-handles-breaking-changes-through-openrewrite) 
 * [JDriven blog posts](https://blog.jdriven.com/author/tim-te-beek/)
-
-### Mentions
-* [Spring Cloud Gateway with OpenID Connect and Token Relay](https://blog.jdriven.com/2019/11/spring-cloud-gateway-with-openid-connect-and-token-relay/)
-was mentioned on [Twitter by Josh Long](https://twitter.com/starbuxman/status/1193343417910063104), on [This Week in Spring - November 12, 2019](https://spring.io/blog/2019/11/11/this-week-in-spring-november-12-2019) and [Baeldung Java Weekly, Issue 307](https://www.baeldung.com/java-weekly-307).
-* [Reuse Gradle Build Cache on GitLab](https://blog.jdriven.com/2021/11/reuse-gradle-build-cache-on-gitlab/) was mentioned on [the December 2021 Gradle Build Tool newsletter](https://newsletter.gradle.com/2021/12).
-* [Major migrations made easy with OpenRewrite](https://blog.jdriven.com/2022/03/major-migrations-made-easy-with-openrewrite/) was mentioned on [This Week in Spring - April 5th, 2022](https://spring.io/blog/2022/04/05/this-week-in-spring-april-5th-2022), [This Month in Spring - April 2022](https://tanzu.vmware.com/content/blog/this-month-in-spring-april-2022) and [Moderne Press](https://www.moderne.io/press).
-* [Major migrations made easy by Tim te Beek @ Spring I/O 2022](https://www.youtube.com/watch?v=d8xU24x7Jqo) was mentioned on [Björn Wilmsmann's blog](https://bjoernkw.com/2022/07/10/major-migrations-made-easy-by-tim-te-beek-spring-i-o-2022/) and on [Twitter by Adib Saikali](https://twitter.com/asaikali/status/1536499296471752704) and others.
-* [Upgrading to Axon Framework 4.7 - Automated](https://developer.axoniq.io/w/upgrading-to-axon-framework-4.7-automated) features [my contribution of OpenRewrite migration recipes to Axon Framework](https://github.com/AxonFramework/AxonFramework/pull/2597).

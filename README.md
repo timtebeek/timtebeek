@@ -11,8 +11,6 @@ Here's an overview of talks and workshops over the years — 75+ appearances acr
 
 ### Upcoming
 
-* 🇩🇪 Cologne, [JCON Europe 2026](https://schedule.jcon.one/2026) — _Break your testing habits_ & _Better Assertions with AssertJ_
-* 🇫🇷 Paris, [Devoxx France 2026](https://www.devoxx.fr/) — _Deterministic modernization in an age of AI_
 * 🇳🇱 Arnhem, [Arnhem JUG April 2026](https://www.meetup.com/arnhemjug/events/314089987) — _Better Assertions with AssertJ_
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, [Devoxx UK 2026](https://www.devoxx.co.uk/) — _Deterministic modernization in an age of AI_ & _Prepare Your Next Spring Boot Migration_
 

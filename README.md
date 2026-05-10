@@ -7,11 +7,7 @@ When not at work you'll find me traveling, bouldering, snowboarding, mountainbik
 ## Talks & workshops
 
 Occasionally I get to present at conferences & meetups.
-Here's an overview of talks and workshops over the years — 75+ appearances across 17 countries since 2018.
-
-### Upcoming
-
-* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, [Devoxx UK 2026](https://www.devoxx.co.uk/) — _Deterministic modernization in an age of AI_ & _Prepare Your Next Spring Boot Migration_
+Here's an overview of talks and workshops over the years — 75+ appearances across 17 countries since 
 
 ### [Deterministic modernization in an age of AI](https://www.devoxx.co.uk/talk/?id=21769)
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, [Devoxx UK 2026](https://www.devoxx.co.uk/talk/?id=21769), 50 minutes

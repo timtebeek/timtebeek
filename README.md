@@ -10,7 +10,7 @@ Occasionally I get to present at conferences & meetups.
 Here's an overview of talks and workshops over the years — 75+ appearances across 17 countries since 
 
 ### [Deterministic modernization in an age of AI](https://www.devoxx.co.uk/talk/?id=21769)
-* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, [Devoxx UK 2026](https://www.devoxx.co.uk/talk/?id=21769), 50 minutes
+* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, [Devoxx UK 2026](https://www.devoxx.co.uk/talk/?id=21769), 40 minutes [📽️](https://www.youtube.com/watch?v=9bBbkkU1dds)
 * 🇫🇷 Paris, [Devoxx France 2026](https://www.devoxx.fr/), 45 minutes
  
 ### [Prepare Your Next Spring Boot Migration](https://www.devoxx.co.uk/talk/?id=20591)
